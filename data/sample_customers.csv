@@ -1,0 +1,1001 @@
+customer_id,region,segment,tenure_months,monthly_charges,total_charges,contract_type,payment_method,churn
+CUST-00001,North,Mid Tenure - Standard,28,29.74,846.42,Month-to-month,Bank transfer (automatic),0
+CUST-00002,North,Long Tenure,41,68.01,2791.68,One year,Electronic check,1
+CUST-00003,South,Mid Tenure - Premium,32,96.9,3133.58,One year,Credit card (automatic),1
+CUST-00004,South,Mid Tenure - Premium,25,92.53,2330.39,One year,Bank transfer (automatic),1
+CUST-00005,West,Early Tenure,0,89.32,0.0,Month-to-month,Bank transfer (automatic),0
+CUST-00006,West,Long Tenure,41,101.86,4145.78,Month-to-month,Bank transfer (automatic),0
+CUST-00007,North,Mid Tenure - Premium,36,101.26,3573.54,Month-to-month,Mailed check,0
+CUST-00008,West,Long Tenure,37,83.67,3115.77,Month-to-month,Bank transfer (automatic),0
+CUST-00009,North,Mid Tenure - Standard,13,63.91,826.84,One year,Mailed check,0
+CUST-00010,South,Mid Tenure - Standard,28,49.97,1405.49,One year,Electronic check,0
+CUST-00011,South,Mid Tenure - Premium,33,104.04,3461.92,Two year,Bank transfer (automatic),0
+CUST-00012,South,Mid Tenure - Premium,27,90.97,2425.09,Month-to-month,Mailed check,1
+CUST-00013,West,Mid Tenure - Standard,19,24.48,464.47,Month-to-month,Mailed check,1
+CUST-00014,South,Early Tenure,11,76.61,828.68,One year,Credit card (automatic),0
+CUST-00015,East,Mid Tenure - Premium,23,104.05,2381.98,Two year,Electronic check,0
+CUST-00016,East,Mid Tenure - Premium,28,88.6,2482.49,Month-to-month,Credit card (automatic),0
+CUST-00017,South,Long Tenure,39,80.7,3132.0,Month-to-month,Electronic check,0
+CUST-00018,South,Early Tenure,0,70.38,0.0,Month-to-month,Mailed check,1
+CUST-00019,East,Long Tenure,65,99.01,6413.52,Month-to-month,Electronic check,1
+CUST-00020,North,Long Tenure,47,26.58,1264.04,Month-to-month,Electronic check,0
+CUST-00021,South,Long Tenure,39,70.13,2730.15,Month-to-month,Credit card (automatic),0
+CUST-00022,South,Mid Tenure - Premium,23,83.81,1903.08,Two year,Mailed check,0
+CUST-00023,West,Mid Tenure - Premium,31,72.62,2253.24,Month-to-month,Mailed check,0
+CUST-00024,North,Mid Tenure - Premium,33,101.67,3408.93,Month-to-month,Electronic check,1
+CUST-00025,South,Mid Tenure - Premium,30,108.87,3279.08,Month-to-month,Credit card (automatic),0
+CUST-00026,West,Mid Tenure - Standard,32,29.21,919.52,Month-to-month,Credit card (automatic),0
+CUST-00027,West,Early Tenure,1,29.35,0.0,Month-to-month,Electronic check,1
+CUST-00028,East,Mid Tenure - Standard,28,62.62,1769.6,Two year,Electronic check,0
+CUST-00029,East,Early Tenure,0,72.28,17.38,Month-to-month,Electronic check,1
+CUST-00030,North,Long Tenure,39,40.31,1597.02,Two year,Mailed check,0
+CUST-00031,North,Long Tenure,43,94.49,4061.26,Month-to-month,Electronic check,0
+CUST-00032,West,Long Tenure,37,112.03,4162.44,One year,Credit card (automatic),0
+CUST-00033,North,Long Tenure,49,107.34,5268.48,One year,Electronic check,0
+CUST-00034,North,Mid Tenure - Standard,32,26.46,839.15,Two year,Electronic check,0
+CUST-00035,West,Mid Tenure - Standard,22,27.79,607.99,Month-to-month,Mailed check,0
+CUST-00036,East,Mid Tenure - Standard,19,45.23,840.36,Two year,Mailed check,1
+CUST-00037,East,Long Tenure,55,73.48,4043.44,Month-to-month,Electronic check,1
+CUST-00038,South,Long Tenure,65,103.53,6708.45,Month-to-month,Mailed check,1
+CUST-00039,South,Early Tenure,0,82.13,0.0,Month-to-month,Bank transfer (automatic),1
+CUST-00040,East,Long Tenure,37,30.97,1140.86,Two year,Electronic check,0
+CUST-00041,South,Mid Tenure - Premium,25,80.25,1989.73,Month-to-month,Mailed check,1
+CUST-00042,West,Long Tenure,45,46.28,2096.98,Month-to-month,Electronic check,1
+CUST-00043,South,Long Tenure,39,87.04,3417.5,One year,Bank transfer (automatic),0
+CUST-00044,North,Early Tenure,0,75.34,0.0,Month-to-month,Mailed check,1
+CUST-00045,South,Long Tenure,56,101.77,5672.68,Month-to-month,Bank transfer (automatic),0
+CUST-00046,South,Mid Tenure - Premium,12,103.1,1262.67,One year,Electronic check,0
+CUST-00047,South,Long Tenure,64,97.02,6157.89,Two year,Mailed check,0
+CUST-00048,North,Mid Tenure - Premium,32,83.64,2651.26,Month-to-month,Bank transfer (automatic),0
+CUST-00049,South,Mid Tenure - Standard,23,64.72,1493.29,Month-to-month,Electronic check,1
+CUST-00050,West,Mid Tenure - Standard,32,57.85,1887.39,Month-to-month,Mailed check,1
+CUST-00051,North,Mid Tenure - Premium,13,84.55,1123.16,Two year,Bank transfer (automatic),0
+CUST-00052,East,Long Tenure,39,75.16,2917.66,Two year,Electronic check,0
+CUST-00053,North,Early Tenure,8,61.46,527.91,Month-to-month,Credit card (automatic),0
+CUST-00054,North,Mid Tenure - Standard,27,20.16,583.57,Month-to-month,Mailed check,0
+CUST-00055,South,Long Tenure,70,79.2,5526.23,Month-to-month,Electronic check,0
+CUST-00056,North,Early Tenure,0,50.99,0.0,One year,Bank transfer (automatic),0
+CUST-00057,South,Early Tenure,8,78.47,579.31,Month-to-month,Credit card (automatic),1
+CUST-00058,North,Early Tenure,4,82.2,342.84,Month-to-month,Mailed check,1
+CUST-00059,West,Long Tenure,41,89.92,3625.71,One year,Credit card (automatic),0
+CUST-00060,East,Long Tenure,69,42.31,2953.5,Month-to-month,Bank transfer (automatic),1
+CUST-00061,South,Mid Tenure - Premium,28,100.73,2848.81,Month-to-month,Electronic check,1
+CUST-00062,West,Mid Tenure - Standard,24,57.97,1367.16,Two year,Mailed check,1
+CUST-00063,North,Mid Tenure - Premium,30,96.39,2874.41,Two year,Electronic check,0
+CUST-00064,West,Mid Tenure - Standard,36,32.67,1169.82,Month-to-month,Mailed check,0
+CUST-00065,East,Early Tenure,3,67.95,177.94,Two year,Credit card (automatic),0
+CUST-00066,West,Early Tenure,0,99.79,12.88,Two year,Credit card (automatic),1
+CUST-00067,West,Early Tenure,0,42.28,14.58,One year,Bank transfer (automatic),1
+CUST-00068,North,Mid Tenure - Standard,19,40.33,775.92,Month-to-month,Mailed check,0
+CUST-00069,East,Long Tenure,62,57.0,3552.03,Month-to-month,Credit card (automatic),0
+CUST-00070,North,Early Tenure,0,48.37,8.62,Two year,Credit card (automatic),0
+CUST-00071,West,Mid Tenure - Standard,12,66.14,795.15,Month-to-month,Mailed check,1
+CUST-00072,West,Long Tenure,77,70.74,5412.96,One year,Credit card (automatic),0
+CUST-00073,North,Long Tenure,42,24.78,1061.71,Month-to-month,Credit card (automatic),0
+CUST-00074,South,Mid Tenure - Premium,29,91.44,2627.41,Month-to-month,Bank transfer (automatic),0
+CUST-00075,East,Long Tenure,52,114.99,5983.26,Two year,Credit card (automatic),0
+CUST-00076,North,Mid Tenure - Standard,29,38.94,1068.17,One year,Electronic check,1
+CUST-00077,South,Mid Tenure - Standard,15,40.71,582.48,Month-to-month,Credit card (automatic),0
+CUST-00078,East,Mid Tenure - Standard,30,49.55,1471.78,Month-to-month,Electronic check,0
+CUST-00079,East,Early Tenure,2,27.22,78.39,One year,Credit card (automatic),0
+CUST-00080,South,Long Tenure,43,31.5,1327.14,Month-to-month,Bank transfer (automatic),0
+CUST-00081,North,Mid Tenure - Premium,24,81.52,1948.45,Month-to-month,Credit card (automatic),1
+CUST-00082,West,Early Tenure,10,104.7,1056.62,Two year,Electronic check,0
+CUST-00083,South,Early Tenure,0,93.59,0.0,Month-to-month,Bank transfer (automatic),1
+CUST-00084,East,Mid Tenure - Premium,32,103.75,3310.7,Month-to-month,Mailed check,1
+CUST-00085,West,Mid Tenure - Standard,15,50.88,788.2,One year,Credit card (automatic),0
+CUST-00086,East,Mid Tenure - Premium,23,103.61,2416.11,One year,Bank transfer (automatic),0
+CUST-00087,South,Early Tenure,0,85.61,3.02,Month-to-month,Credit card (automatic),0
+CUST-00088,West,Long Tenure,39,85.72,3352.85,Month-to-month,Electronic check,1
+CUST-00089,East,Early Tenure,0,51.43,18.67,Month-to-month,Bank transfer (automatic),0
+CUST-00090,East,Long Tenure,37,31.36,1171.56,Month-to-month,Mailed check,0
+CUST-00091,South,Mid Tenure - Premium,23,92.22,2153.96,Month-to-month,Credit card (automatic),0
+CUST-00092,North,Mid Tenure - Standard,29,21.34,634.43,Two year,Bank transfer (automatic),0
+CUST-00093,East,Early Tenure,0,32.0,0.0,Month-to-month,Electronic check,0
+CUST-00094,West,Early Tenure,7,61.84,420.25,Month-to-month,Electronic check,1
+CUST-00095,North,Mid Tenure - Standard,33,66.72,2207.8,Month-to-month,Credit card (automatic),0
+CUST-00096,North,Long Tenure,40,73.02,2930.43,Month-to-month,Bank transfer (automatic),0
+CUST-00097,South,Early Tenure,7,101.72,720.31,One year,Credit card (automatic),0
+CUST-00098,East,Early Tenure,2,110.02,193.95,One year,Electronic check,1
+CUST-00099,South,Mid Tenure - Standard,34,27.13,935.31,Month-to-month,Electronic check,1
+CUST-00100,West,Mid Tenure - Premium,24,87.16,2109.38,One year,Credit card (automatic),0
+CUST-00101,West,Long Tenure,59,79.38,4663.17,Month-to-month,Mailed check,0
+CUST-00102,South,Early Tenure,1,98.53,54.79,Month-to-month,Mailed check,1
+CUST-00103,South,Early Tenure,7,48.89,352.72,One year,Bank transfer (automatic),0
+CUST-00104,East,Early Tenure,3,104.5,326.37,Month-to-month,Credit card (automatic),0
+CUST-00105,East,Long Tenure,64,74.64,4765.69,Month-to-month,Mailed check,0
+CUST-00106,East,Early Tenure,0,107.03,6.69,One year,Mailed check,1
+CUST-00107,West,Long Tenure,50,58.79,2934.06,One year,Credit card (automatic),0
+CUST-00108,North,Early Tenure,8,82.95,679.01,Two year,Bank transfer (automatic),0
+CUST-00109,North,Mid Tenure - Premium,27,93.39,2533.94,Month-to-month,Bank transfer (automatic),0
+CUST-00110,North,Mid Tenure - Standard,16,54.37,878.28,One year,Credit card (automatic),0
+CUST-00111,West,Mid Tenure - Standard,26,47.36,1244.53,One year,Mailed check,0
+CUST-00112,West,Mid Tenure - Standard,23,21.3,469.02,Month-to-month,Mailed check,0
+CUST-00113,South,Mid Tenure - Premium,18,99.05,1785.9,Two year,Electronic check,0
+CUST-00114,East,Early Tenure,8,64.86,533.41,Month-to-month,Bank transfer (automatic),1
+CUST-00115,South,Long Tenure,38,95.05,3596.74,Month-to-month,Mailed check,0
+CUST-00116,East,Mid Tenure - Premium,22,75.09,1604.86,Two year,Bank transfer (automatic),0
+CUST-00117,South,Mid Tenure - Premium,13,71.63,957.38,Month-to-month,Credit card (automatic),0
+CUST-00118,East,Mid Tenure - Premium,14,93.68,1303.57,Two year,Mailed check,1
+CUST-00119,West,Early Tenure,5,97.97,514.07,One year,Credit card (automatic),0
+CUST-00120,West,Early Tenure,1,102.62,102.14,Two year,Mailed check,0
+CUST-00121,West,Long Tenure,39,102.74,4008.2,Month-to-month,Credit card (automatic),0
+CUST-00122,North,Early Tenure,11,81.73,931.64,Month-to-month,Bank transfer (automatic),0
+CUST-00123,West,Mid Tenure - Standard,31,26.5,816.64,Two year,Credit card (automatic),0
+CUST-00124,East,Mid Tenure - Premium,19,80.21,1528.58,Two year,Electronic check,0
+CUST-00125,West,Mid Tenure - Premium,33,95.63,3151.42,Month-to-month,Bank transfer (automatic),1
+CUST-00126,East,Early Tenure,2,95.29,184.3,Month-to-month,Mailed check,1
+CUST-00127,North,Mid Tenure - Premium,17,106.72,1801.56,One year,Credit card (automatic),1
+CUST-00128,West,Mid Tenure - Premium,27,96.44,2607.31,One year,Credit card (automatic),0
+CUST-00129,South,Long Tenure,44,111.39,4899.53,Month-to-month,Bank transfer (automatic),0
+CUST-00130,West,Long Tenure,67,30.13,2018.52,Two year,Mailed check,0
+CUST-00131,East,Long Tenure,65,57.6,3750.47,One year,Bank transfer (automatic),1
+CUST-00132,North,Long Tenure,49,93.7,4544.46,Two year,Credit card (automatic),0
+CUST-00133,East,Early Tenure,6,88.49,505.03,Month-to-month,Mailed check,0
+CUST-00134,South,Mid Tenure - Premium,20,75.06,1526.33,One year,Electronic check,0
+CUST-00135,North,Mid Tenure - Standard,27,32.56,863.58,Two year,Bank transfer (automatic),0
+CUST-00136,East,Mid Tenure - Premium,35,98.35,3425.39,Month-to-month,Bank transfer (automatic),0
+CUST-00137,East,Mid Tenure - Standard,35,27.15,923.76,One year,Bank transfer (automatic),0
+CUST-00138,South,Long Tenure,63,54.75,3440.03,Two year,Credit card (automatic),0
+CUST-00139,North,Early Tenure,0,83.87,10.47,Month-to-month,Electronic check,0
+CUST-00140,East,Early Tenure,0,109.6,6.2,Month-to-month,Mailed check,1
+CUST-00141,South,Long Tenure,42,58.79,2457.75,One year,Credit card (automatic),1
+CUST-00142,North,Long Tenure,38,71.07,2712.85,Month-to-month,Credit card (automatic),0
+CUST-00143,East,Early Tenure,0,104.11,0.0,One year,Credit card (automatic),0
+CUST-00144,West,Long Tenure,46,62.12,2862.43,One year,Bank transfer (automatic),0
+CUST-00145,East,Early Tenure,0,54.07,0.0,Month-to-month,Bank transfer (automatic),1
+CUST-00146,South,Long Tenure,39,80.75,3158.65,Two year,Credit card (automatic),0
+CUST-00147,North,Long Tenure,63,39.49,2484.78,One year,Mailed check,0
+CUST-00148,South,Mid Tenure - Premium,22,105.55,2334.54,One year,Mailed check,1
+CUST-00149,South,Mid Tenure - Premium,30,102.31,3057.79,Two year,Bank transfer (automatic),1
+CUST-00150,East,Mid Tenure - Standard,24,45.21,1082.68,One year,Mailed check,1
+CUST-00151,West,Early Tenure,0,68.76,6.45,Month-to-month,Electronic check,1
+CUST-00152,South,Mid Tenure - Premium,21,82.6,1680.45,Two year,Electronic check,0
+CUST-00153,North,Long Tenure,40,30.26,1188.82,Month-to-month,Credit card (automatic),0
+CUST-00154,West,Mid Tenure - Standard,23,31.99,748.51,Month-to-month,Electronic check,0
+CUST-00155,East,Early Tenure,1,29.42,39.2,Month-to-month,Bank transfer (automatic),0
+CUST-00156,South,Early Tenure,0,57.88,24.16,Month-to-month,Mailed check,0
+CUST-00157,East,Mid Tenure - Premium,19,107.68,2056.14,Month-to-month,Bank transfer (automatic),1
+CUST-00158,North,Mid Tenure - Standard,27,32.36,849.59,Month-to-month,Electronic check,1
+CUST-00159,East,Early Tenure,10,91.28,942.23,One year,Credit card (automatic),0
+CUST-00160,North,Mid Tenure - Standard,12,40.21,508.88,Two year,Bank transfer (automatic),0
+CUST-00161,South,Long Tenure,38,92.45,3493.34,Two year,Bank transfer (automatic),0
+CUST-00162,West,Early Tenure,5,85.88,406.24,Two year,Electronic check,1
+CUST-00163,East,Long Tenure,44,37.23,1627.12,One year,Bank transfer (automatic),0
+CUST-00164,West,Long Tenure,48,55.74,2692.28,Month-to-month,Electronic check,0
+CUST-00165,South,Mid Tenure - Standard,32,28.07,866.33,Month-to-month,Bank transfer (automatic),1
+CUST-00166,South,Mid Tenure - Premium,20,82.88,1639.91,One year,Electronic check,0
+CUST-00167,West,Mid Tenure - Standard,28,60.84,1691.24,Month-to-month,Mailed check,1
+CUST-00168,West,Long Tenure,47,76.94,3623.24,Month-to-month,Bank transfer (automatic),1
+CUST-00169,East,Mid Tenure - Standard,29,31.4,890.01,Two year,Mailed check,0
+CUST-00170,West,Mid Tenure - Premium,13,73.08,946.36,Month-to-month,Credit card (automatic),0
+CUST-00171,East,Early Tenure,7,27.4,202.62,Month-to-month,Electronic check,1
+CUST-00172,West,Mid Tenure - Premium,22,111.79,2484.08,One year,Credit card (automatic),1
+CUST-00173,West,Long Tenure,60,43.12,2612.56,Two year,Bank transfer (automatic),0
+CUST-00174,North,Mid Tenure - Premium,27,94.02,2520.85,Month-to-month,Bank transfer (automatic),1
+CUST-00175,North,Long Tenure,43,89.1,3818.38,Month-to-month,Mailed check,0
+CUST-00176,South,Mid Tenure - Standard,27,34.52,947.46,Month-to-month,Mailed check,0
+CUST-00177,North,Early Tenure,2,75.05,157.33,Month-to-month,Credit card (automatic),0
+CUST-00178,East,Mid Tenure - Standard,32,62.01,1991.96,Two year,Bank transfer (automatic),0
+CUST-00179,East,Early Tenure,10,62.93,628.31,One year,Bank transfer (automatic),1
+CUST-00180,East,Early Tenure,10,63.96,619.93,Month-to-month,Electronic check,0
+CUST-00181,North,Mid Tenure - Standard,18,34.33,643.53,Month-to-month,Mailed check,1
+CUST-00182,North,Mid Tenure - Premium,36,81.38,2928.52,Two year,Bank transfer (automatic),1
+CUST-00183,West,Early Tenure,0,56.8,42.19,Two year,Mailed check,0
+CUST-00184,North,Mid Tenure - Premium,36,84.45,3044.68,One year,Bank transfer (automatic),0
+CUST-00185,South,Long Tenure,42,82.33,3447.1,Month-to-month,Mailed check,0
+CUST-00186,South,Mid Tenure - Premium,20,95.21,1926.82,One year,Electronic check,0
+CUST-00187,North,Mid Tenure - Standard,24,49.34,1183.9,One year,Credit card (automatic),0
+CUST-00188,East,Long Tenure,60,34.72,2191.07,Two year,Credit card (automatic),0
+CUST-00189,North,Early Tenure,6,78.71,428.77,Month-to-month,Electronic check,0
+CUST-00190,South,Mid Tenure - Standard,26,54.61,1412.51,Month-to-month,Mailed check,0
+CUST-00191,West,Mid Tenure - Premium,29,111.73,3258.56,One year,Credit card (automatic),0
+CUST-00192,South,Mid Tenure - Standard,12,56.28,680.21,Month-to-month,Credit card (automatic),0
+CUST-00193,South,Mid Tenure - Standard,32,65.66,2095.26,Two year,Mailed check,0
+CUST-00194,North,Mid Tenure - Standard,20,45.92,959.8,One year,Electronic check,0
+CUST-00195,South,Long Tenure,41,62.86,2571.41,Two year,Electronic check,0
+CUST-00196,North,Mid Tenure - Premium,13,114.48,1488.01,Month-to-month,Credit card (automatic),1
+CUST-00197,North,Long Tenure,43,95.18,4062.06,Month-to-month,Electronic check,1
+CUST-00198,East,Mid Tenure - Premium,24,87.03,2075.83,Two year,Credit card (automatic),0
+CUST-00199,North,Mid Tenure - Premium,26,72.14,1923.06,Two year,Electronic check,0
+CUST-00200,West,Mid Tenure - Standard,28,42.65,1206.91,Month-to-month,Bank transfer (automatic),0
+CUST-00201,West,Mid Tenure - Standard,25,68.96,1721.4,Month-to-month,Credit card (automatic),1
+CUST-00202,South,Mid Tenure - Standard,16,59.57,940.87,Month-to-month,Electronic check,0
+CUST-00203,North,Long Tenure,50,68.2,3422.6,Month-to-month,Bank transfer (automatic),0
+CUST-00204,North,Long Tenure,47,55.46,2613.3,Month-to-month,Credit card (automatic),0
+CUST-00205,East,Mid Tenure - Standard,29,29.85,902.17,One year,Bank transfer (automatic),0
+CUST-00206,East,Early Tenure,0,36.63,0.0,Month-to-month,Bank transfer (automatic),0
+CUST-00207,West,Early Tenure,3,25.99,44.34,Two year,Credit card (automatic),0
+CUST-00208,West,Long Tenure,40,23.98,963.73,Month-to-month,Mailed check,0
+CUST-00209,West,Mid Tenure - Standard,27,38.15,1071.87,Two year,Credit card (automatic),0
+CUST-00210,North,Mid Tenure - Standard,22,61.51,1397.55,Two year,Bank transfer (automatic),0
+CUST-00211,West,Mid Tenure - Premium,21,85.75,1814.38,Two year,Credit card (automatic),0
+CUST-00212,East,Long Tenure,51,98.12,5020.28,Two year,Credit card (automatic),0
+CUST-00213,East,Mid Tenure - Premium,18,77.25,1372.37,Month-to-month,Bank transfer (automatic),0
+CUST-00214,West,Mid Tenure - Premium,21,78.41,1592.13,Month-to-month,Electronic check,0
+CUST-00215,North,Early Tenure,4,84.54,372.18,Month-to-month,Credit card (automatic),0
+CUST-00216,South,Mid Tenure - Premium,35,93.96,3290.62,Two year,Credit card (automatic),0
+CUST-00217,West,Early Tenure,4,110.14,417.44,Two year,Electronic check,1
+CUST-00218,North,Early Tenure,4,43.71,196.48,One year,Bank transfer (automatic),1
+CUST-00219,South,Mid Tenure - Premium,36,93.62,3363.85,Month-to-month,Credit card (automatic),0
+CUST-00220,South,Early Tenure,2,39.02,0.0,Two year,Bank transfer (automatic),1
+CUST-00221,North,Long Tenure,64,111.92,7162.1,Month-to-month,Credit card (automatic),0
+CUST-00222,East,Long Tenure,58,87.62,5051.16,One year,Bank transfer (automatic),0
+CUST-00223,South,Long Tenure,37,33.19,1239.6,One year,Mailed check,0
+CUST-00224,North,Early Tenure,0,32.33,14.51,Month-to-month,Bank transfer (automatic),0
+CUST-00225,North,Early Tenure,0,98.22,0.0,Month-to-month,Credit card (automatic),1
+CUST-00226,East,Early Tenure,4,32.19,135.19,One year,Credit card (automatic),0
+CUST-00227,South,Early Tenure,0,25.26,22.58,One year,Mailed check,1
+CUST-00228,South,Mid Tenure - Standard,14,52.87,775.45,Month-to-month,Mailed check,0
+CUST-00229,East,Long Tenure,44,46.07,2086.12,Two year,Bank transfer (automatic),0
+CUST-00230,North,Early Tenure,5,36.26,163.32,Month-to-month,Mailed check,0
+CUST-00231,East,Mid Tenure - Standard,30,24.32,724.26,Two year,Electronic check,0
+CUST-00232,East,Mid Tenure - Premium,24,104.45,2502.61,One year,Credit card (automatic),0
+CUST-00233,East,Mid Tenure - Standard,25,25.69,651.55,Month-to-month,Credit card (automatic),0
+CUST-00234,West,Mid Tenure - Premium,14,88.24,1221.92,Month-to-month,Bank transfer (automatic),0
+CUST-00235,East,Mid Tenure - Standard,29,30.09,842.6,Two year,Mailed check,0
+CUST-00236,North,Mid Tenure - Premium,32,109.81,3520.16,Month-to-month,Mailed check,0
+CUST-00237,West,Long Tenure,46,88.51,4017.78,Month-to-month,Mailed check,1
+CUST-00238,South,Early Tenure,10,22.2,222.17,Month-to-month,Credit card (automatic),0
+CUST-00239,West,Mid Tenure - Standard,22,46.73,1024.11,Two year,Mailed check,0
+CUST-00240,West,Long Tenure,40,103.83,4131.45,Month-to-month,Electronic check,0
+CUST-00241,West,Long Tenure,52,54.44,2841.03,Month-to-month,Credit card (automatic),1
+CUST-00242,West,Long Tenure,40,78.05,3090.91,Month-to-month,Bank transfer (automatic),1
+CUST-00243,North,Early Tenure,10,33.71,328.62,Month-to-month,Bank transfer (automatic),0
+CUST-00244,West,Long Tenure,58,96.38,5599.61,Month-to-month,Electronic check,0
+CUST-00245,South,Mid Tenure - Standard,15,35.44,562.0,One year,Mailed check,0
+CUST-00246,East,Mid Tenure - Premium,23,97.5,2222.1,One year,Credit card (automatic),0
+CUST-00247,North,Long Tenure,37,85.36,3119.85,Two year,Bank transfer (automatic),1
+CUST-00248,West,Mid Tenure - Standard,23,36.2,800.04,Month-to-month,Mailed check,0
+CUST-00249,West,Long Tenure,75,30.44,2294.99,Month-to-month,Mailed check,1
+CUST-00250,East,Mid Tenure - Premium,20,93.62,1848.48,Month-to-month,Credit card (automatic),0
+CUST-00251,North,Early Tenure,0,65.45,0.0,One year,Mailed check,0
+CUST-00252,South,Early Tenure,0,102.43,0.0,Month-to-month,Bank transfer (automatic),0
+CUST-00253,East,Long Tenure,43,48.36,2074.12,One year,Mailed check,0
+CUST-00254,East,Mid Tenure - Standard,19,65.58,1219.07,One year,Mailed check,0
+CUST-00255,East,Long Tenure,43,52.79,2254.72,Month-to-month,Credit card (automatic),0
+CUST-00256,South,Mid Tenure - Premium,35,107.78,3769.49,Month-to-month,Bank transfer (automatic),0
+CUST-00257,West,Long Tenure,56,33.04,1834.48,Month-to-month,Bank transfer (automatic),0
+CUST-00258,South,Mid Tenure - Standard,23,59.26,1356.72,Month-to-month,Mailed check,0
+CUST-00259,North,Long Tenure,53,108.26,5738.81,One year,Mailed check,0
+CUST-00260,West,Mid Tenure - Standard,28,47.11,1298.52,Month-to-month,Mailed check,1
+CUST-00261,North,Early Tenure,0,108.98,0.0,One year,Mailed check,0
+CUST-00262,South,Mid Tenure - Premium,32,99.44,3179.34,Month-to-month,Mailed check,0
+CUST-00263,South,Mid Tenure - Premium,29,73.96,2142.45,Two year,Bank transfer (automatic),1
+CUST-00264,East,Mid Tenure - Standard,36,67.9,2435.8,Month-to-month,Credit card (automatic),1
+CUST-00265,North,Early Tenure,9,21.34,160.11,Month-to-month,Credit card (automatic),1
+CUST-00266,East,Long Tenure,45,105.22,4778.83,One year,Mailed check,0
+CUST-00267,East,Mid Tenure - Standard,32,50.74,1636.3,Month-to-month,Electronic check,1
+CUST-00268,East,Mid Tenure - Standard,29,48.68,1349.69,Month-to-month,Credit card (automatic),0
+CUST-00269,North,Mid Tenure - Standard,25,31.23,772.37,Month-to-month,Bank transfer (automatic),1
+CUST-00270,West,Mid Tenure - Premium,17,109.36,1825.93,One year,Bank transfer (automatic),0
+CUST-00271,South,Early Tenure,6,113.94,687.4,Month-to-month,Mailed check,1
+CUST-00272,West,Mid Tenure - Premium,30,76.6,2260.35,One year,Mailed check,0
+CUST-00273,West,Long Tenure,50,25.87,1308.68,Month-to-month,Bank transfer (automatic),0
+CUST-00274,South,Long Tenure,48,61.97,3016.74,One year,Mailed check,0
+CUST-00275,West,Mid Tenure - Standard,35,68.76,2380.97,Month-to-month,Credit card (automatic),0
+CUST-00276,North,Mid Tenure - Premium,24,97.56,2316.69,One year,Bank transfer (automatic),0
+CUST-00277,North,Mid Tenure - Standard,20,25.72,484.7,Month-to-month,Bank transfer (automatic),0
+CUST-00278,West,Mid Tenure - Premium,32,80.94,2602.28,Month-to-month,Credit card (automatic),0
+CUST-00279,West,Early Tenure,0,55.86,17.73,Month-to-month,Credit card (automatic),1
+CUST-00280,South,Long Tenure,74,57.34,4296.46,One year,Bank transfer (automatic),1
+CUST-00281,South,Long Tenure,50,88.31,4411.74,Two year,Electronic check,0
+CUST-00282,West,Mid Tenure - Standard,16,37.91,610.11,Two year,Mailed check,0
+CUST-00283,North,Early Tenure,0,104.46,0.0,Month-to-month,Credit card (automatic),1
+CUST-00284,North,Early Tenure,0,102.86,12.33,Month-to-month,Electronic check,1
+CUST-00285,North,Early Tenure,0,93.73,0.0,Month-to-month,Mailed check,1
+CUST-00286,East,Early Tenure,0,97.75,0.0,Month-to-month,Bank transfer (automatic),1
+CUST-00287,South,Mid Tenure - Premium,14,72.89,1030.83,Two year,Mailed check,0
+CUST-00288,South,Mid Tenure - Standard,22,52.72,1157.18,One year,Credit card (automatic),0
+CUST-00289,West,Mid Tenure - Standard,21,48.49,994.12,One year,Bank transfer (automatic),1
+CUST-00290,West,Mid Tenure - Premium,18,96.55,1775.13,Month-to-month,Mailed check,0
+CUST-00291,West,Mid Tenure - Standard,16,51.37,834.29,Two year,Mailed check,1
+CUST-00292,West,Early Tenure,0,24.9,0.0,Two year,Electronic check,0
+CUST-00293,North,Mid Tenure - Premium,36,83.79,2985.11,Two year,Mailed check,0
+CUST-00294,South,Mid Tenure - Standard,13,40.12,573.27,Two year,Bank transfer (automatic),0
+CUST-00295,North,Long Tenure,54,86.86,4670.69,One year,Credit card (automatic),0
+CUST-00296,South,Early Tenure,9,54.13,508.21,One year,Bank transfer (automatic),1
+CUST-00297,West,Mid Tenure - Standard,29,39.3,1117.79,Month-to-month,Credit card (automatic),1
+CUST-00298,North,Mid Tenure - Premium,27,72.56,1954.61,One year,Mailed check,0
+CUST-00299,West,Mid Tenure - Premium,18,99.17,1806.49,Month-to-month,Mailed check,0
+CUST-00300,East,Long Tenure,56,66.61,3722.68,Month-to-month,Credit card (automatic),1
+CUST-00301,East,Long Tenure,44,114.08,5067.54,Month-to-month,Credit card (automatic),0
+CUST-00302,North,Long Tenure,55,92.61,5081.01,Two year,Electronic check,0
+CUST-00303,South,Long Tenure,51,55.45,2829.65,Month-to-month,Mailed check,0
+CUST-00304,West,Long Tenure,53,21.13,1121.21,One year,Electronic check,0
+CUST-00305,East,Long Tenure,64,84.03,5382.84,Month-to-month,Bank transfer (automatic),0
+CUST-00306,South,Mid Tenure - Premium,13,78.88,1022.61,Month-to-month,Electronic check,1
+CUST-00307,East,Long Tenure,72,63.6,4609.33,Month-to-month,Credit card (automatic),1
+CUST-00308,South,Early Tenure,5,92.16,420.15,Month-to-month,Electronic check,1
+CUST-00309,West,Mid Tenure - Standard,30,36.28,1089.59,Month-to-month,Credit card (automatic),0
+CUST-00310,West,Early Tenure,0,29.06,0.0,One year,Bank transfer (automatic),0
+CUST-00311,North,Mid Tenure - Premium,21,85.02,1841.7,Month-to-month,Credit card (automatic),1
+CUST-00312,North,Long Tenure,41,33.7,1383.37,Month-to-month,Bank transfer (automatic),0
+CUST-00313,West,Mid Tenure - Premium,35,99.29,3490.96,Two year,Bank transfer (automatic),0
+CUST-00314,East,Mid Tenure - Standard,35,27.45,923.76,Month-to-month,Mailed check,0
+CUST-00315,East,Mid Tenure - Premium,28,77.49,2179.6,Month-to-month,Credit card (automatic),0
+CUST-00316,West,Long Tenure,43,114.3,4918.6,Two year,Bank transfer (automatic),0
+CUST-00317,East,Early Tenure,0,82.76,15.66,One year,Credit card (automatic),1
+CUST-00318,East,Long Tenure,38,87.61,3336.31,One year,Electronic check,0
+CUST-00319,West,Long Tenure,68,62.25,4265.54,Month-to-month,Electronic check,0
+CUST-00320,North,Early Tenure,4,68.68,288.12,Month-to-month,Mailed check,1
+CUST-00321,North,Early Tenure,0,102.05,0.0,Month-to-month,Electronic check,1
+CUST-00322,West,Mid Tenure - Premium,23,114.31,2597.51,Month-to-month,Electronic check,1
+CUST-00323,South,Long Tenure,38,66.85,2556.51,One year,Mailed check,1
+CUST-00324,West,Mid Tenure - Standard,20,43.91,879.19,Month-to-month,Bank transfer (automatic),1
+CUST-00325,West,Mid Tenure - Standard,17,20.64,354.41,One year,Mailed check,0
+CUST-00326,West,Early Tenure,8,98.24,795.65,Two year,Bank transfer (automatic),0
+CUST-00327,South,Mid Tenure - Standard,15,57.83,869.51,Month-to-month,Mailed check,1
+CUST-00328,West,Mid Tenure - Premium,20,94.66,1911.22,Two year,Mailed check,0
+CUST-00329,South,Mid Tenure - Premium,17,110.54,1850.45,One year,Mailed check,0
+CUST-00330,South,Mid Tenure - Premium,31,100.54,3108.48,Month-to-month,Bank transfer (automatic),0
+CUST-00331,West,Mid Tenure - Premium,29,87.95,2587.16,Month-to-month,Bank transfer (automatic),0
+CUST-00332,North,Early Tenure,6,107.73,631.11,Month-to-month,Credit card (automatic),0
+CUST-00333,West,Mid Tenure - Premium,17,76.41,1255.34,Month-to-month,Bank transfer (automatic),0
+CUST-00334,North,Long Tenure,41,73.51,3043.69,One year,Bank transfer (automatic),0
+CUST-00335,West,Long Tenure,48,21.0,1002.33,Two year,Bank transfer (automatic),0
+CUST-00336,South,Early Tenure,0,85.59,8.67,Month-to-month,Credit card (automatic),1
+CUST-00337,North,Early Tenure,0,31.03,32.17,Month-to-month,Bank transfer (automatic),0
+CUST-00338,South,Mid Tenure - Standard,14,65.88,927.03,Month-to-month,Bank transfer (automatic),0
+CUST-00339,West,Mid Tenure - Premium,20,96.97,1958.58,One year,Credit card (automatic),1
+CUST-00340,East,Long Tenure,57,69.02,3916.64,One year,Mailed check,0
+CUST-00341,East,Mid Tenure - Standard,30,37.52,1150.91,One year,Credit card (automatic),0
+CUST-00342,West,Early Tenure,7,20.42,151.19,Month-to-month,Mailed check,1
+CUST-00343,East,Early Tenure,0,71.0,0.0,One year,Electronic check,0
+CUST-00344,South,Mid Tenure - Premium,16,111.76,1762.69,Month-to-month,Bank transfer (automatic),1
+CUST-00345,West,Early Tenure,5,78.65,432.71,One year,Electronic check,0
+CUST-00346,East,Mid Tenure - Standard,19,42.66,791.41,Two year,Electronic check,1
+CUST-00347,East,Mid Tenure - Standard,18,56.45,1022.79,One year,Credit card (automatic),1
+CUST-00348,South,Mid Tenure - Premium,24,99.99,2415.37,One year,Credit card (automatic),0
+CUST-00349,East,Long Tenure,52,111.56,5835.87,Two year,Credit card (automatic),0
+CUST-00350,West,Early Tenure,0,66.43,24.2,Month-to-month,Credit card (automatic),1
+CUST-00351,North,Mid Tenure - Premium,23,71.07,1653.96,One year,Mailed check,1
+CUST-00352,West,Mid Tenure - Standard,18,30.85,551.53,One year,Credit card (automatic),0
+CUST-00353,East,Mid Tenure - Standard,29,40.76,1155.12,Month-to-month,Electronic check,0
+CUST-00354,South,Early Tenure,10,97.59,983.09,Month-to-month,Electronic check,1
+CUST-00355,North,Mid Tenure - Premium,36,85.47,3116.52,One year,Mailed check,0
+CUST-00356,West,Mid Tenure - Premium,35,96.52,3333.48,Month-to-month,Mailed check,0
+CUST-00357,East,Mid Tenure - Standard,14,47.49,699.77,One year,Mailed check,0
+CUST-00358,North,Long Tenure,82,102.37,8356.14,Month-to-month,Credit card (automatic),1
+CUST-00359,South,Long Tenure,44,84.24,3669.28,Month-to-month,Bank transfer (automatic),0
+CUST-00360,East,Early Tenure,0,103.61,10.53,One year,Credit card (automatic),1
+CUST-00361,East,Early Tenure,5,75.29,384.57,One year,Bank transfer (automatic),0
+CUST-00362,North,Early Tenure,7,100.76,676.35,One year,Credit card (automatic),0
+CUST-00363,West,Long Tenure,38,50.67,1899.42,Month-to-month,Credit card (automatic),1
+CUST-00364,South,Long Tenure,38,92.41,3460.12,One year,Credit card (automatic),1
+CUST-00365,West,Mid Tenure - Premium,27,111.01,2997.6,Month-to-month,Mailed check,1
+CUST-00366,South,Long Tenure,53,46.03,2488.43,Two year,Bank transfer (automatic),0
+CUST-00367,East,Long Tenure,54,88.97,4815.58,Month-to-month,Mailed check,0
+CUST-00368,West,Long Tenure,50,32.61,1630.69,One year,Electronic check,0
+CUST-00369,West,Long Tenure,52,60.12,3058.3,Month-to-month,Bank transfer (automatic),1
+CUST-00370,North,Mid Tenure - Standard,26,49.77,1282.48,Month-to-month,Electronic check,0
+CUST-00371,South,Early Tenure,9,26.5,209.3,Month-to-month,Mailed check,0
+CUST-00372,South,Mid Tenure - Standard,20,59.11,1171.88,Month-to-month,Mailed check,0
+CUST-00373,South,Mid Tenure - Premium,34,89.35,3047.78,Month-to-month,Electronic check,1
+CUST-00374,West,Mid Tenure - Standard,28,43.58,1256.2,Month-to-month,Mailed check,0
+CUST-00375,East,Long Tenure,44,48.66,2111.11,One year,Electronic check,0
+CUST-00376,South,Early Tenure,6,95.41,537.69,One year,Bank transfer (automatic),1
+CUST-00377,West,Mid Tenure - Premium,23,104.43,2394.57,Month-to-month,Credit card (automatic),1
+CUST-00378,East,Early Tenure,0,59.98,31.18,Two year,Mailed check,0
+CUST-00379,South,Mid Tenure - Standard,35,44.91,1572.83,One year,Electronic check,1
+CUST-00380,North,Early Tenure,0,67.6,0.0,Two year,Credit card (automatic),0
+CUST-00381,West,Mid Tenure - Standard,25,68.57,1735.46,Month-to-month,Mailed check,1
+CUST-00382,South,Early Tenure,0,81.73,0.0,Month-to-month,Credit card (automatic),0
+CUST-00383,East,Mid Tenure - Standard,35,61.28,2148.58,One year,Mailed check,0
+CUST-00384,North,Long Tenure,50,86.64,4358.75,Month-to-month,Mailed check,1
+CUST-00385,East,Mid Tenure - Premium,33,94.21,3120.22,Month-to-month,Bank transfer (automatic),1
+CUST-00386,North,Mid Tenure - Standard,17,69.77,1208.88,One year,Electronic check,0
+CUST-00387,North,Long Tenure,65,35.85,2347.15,Month-to-month,Bank transfer (automatic),1
+CUST-00388,North,Mid Tenure - Standard,31,24.18,779.12,Two year,Electronic check,0
+CUST-00389,South,Mid Tenure - Premium,19,108.46,2070.3,Month-to-month,Bank transfer (automatic),0
+CUST-00390,West,Early Tenure,0,45.77,20.04,Month-to-month,Mailed check,1
+CUST-00391,East,Long Tenure,43,113.23,4909.67,Month-to-month,Electronic check,0
+CUST-00392,North,Mid Tenure - Standard,30,28.21,824.97,Two year,Bank transfer (automatic),0
+CUST-00393,East,Mid Tenure - Standard,27,54.99,1466.13,Month-to-month,Bank transfer (automatic),0
+CUST-00394,South,Long Tenure,55,22.27,1271.92,One year,Mailed check,0
+CUST-00395,North,Mid Tenure - Premium,29,90.12,2589.23,Two year,Electronic check,0
+CUST-00396,South,Early Tenure,0,112.39,30.77,Month-to-month,Mailed check,1
+CUST-00397,East,Long Tenure,47,86.58,4051.05,Month-to-month,Mailed check,0
+CUST-00398,North,Mid Tenure - Premium,14,76.23,1048.21,One year,Mailed check,1
+CUST-00399,South,Long Tenure,55,57.33,3107.18,Month-to-month,Bank transfer (automatic),0
+CUST-00400,East,Mid Tenure - Standard,32,32.93,1113.38,Month-to-month,Bank transfer (automatic),0
+CUST-00401,North,Early Tenure,11,31.47,352.93,Month-to-month,Mailed check,1
+CUST-00402,South,Mid Tenure - Standard,27,34.97,956.77,Month-to-month,Credit card (automatic),0
+CUST-00403,North,Long Tenure,46,112.0,5183.63,Month-to-month,Bank transfer (automatic),1
+CUST-00404,North,Mid Tenure - Premium,33,110.45,3630.87,One year,Bank transfer (automatic),0
+CUST-00405,South,Mid Tenure - Standard,31,21.14,642.4,Month-to-month,Electronic check,0
+CUST-00406,South,Early Tenure,8,81.25,675.37,Month-to-month,Credit card (automatic),0
+CUST-00407,East,Mid Tenure - Premium,35,105.74,3702.15,Two year,Electronic check,0
+CUST-00408,South,Long Tenure,62,24.81,1579.78,Month-to-month,Bank transfer (automatic),0
+CUST-00409,West,Early Tenure,8,60.53,484.84,Two year,Credit card (automatic),0
+CUST-00410,South,Mid Tenure - Premium,31,78.82,2438.98,Month-to-month,Credit card (automatic),1
+CUST-00411,East,Long Tenure,43,33.04,1428.29,Month-to-month,Credit card (automatic),1
+CUST-00412,South,Long Tenure,62,54.12,3352.54,One year,Electronic check,0
+CUST-00413,West,Mid Tenure - Standard,18,50.29,915.38,Month-to-month,Bank transfer (automatic),1
+CUST-00414,East,Early Tenure,0,114.96,0.0,Month-to-month,Credit card (automatic),0
+CUST-00415,North,Mid Tenure - Premium,24,107.14,2617.13,Month-to-month,Mailed check,1
+CUST-00416,South,Early Tenure,4,100.3,439.0,One year,Credit card (automatic),1
+CUST-00417,East,Mid Tenure - Premium,32,86.55,2766.52,Two year,Bank transfer (automatic),0
+CUST-00418,South,Long Tenure,46,112.19,5121.75,One year,Mailed check,0
+CUST-00419,South,Long Tenure,53,21.89,1171.89,Month-to-month,Electronic check,0
+CUST-00420,East,Mid Tenure - Standard,34,36.86,1231.84,Two year,Mailed check,0
+CUST-00421,East,Early Tenure,0,93.56,0.0,Month-to-month,Mailed check,0
+CUST-00422,East,Mid Tenure - Premium,19,75.67,1402.39,Two year,Bank transfer (automatic),0
+CUST-00423,East,Mid Tenure - Premium,25,80.73,1991.62,Month-to-month,Mailed check,0
+CUST-00424,East,Mid Tenure - Standard,32,36.66,1205.99,Month-to-month,Bank transfer (automatic),1
+CUST-00425,East,Long Tenure,74,57.2,4213.53,Month-to-month,Electronic check,0
+CUST-00426,North,Long Tenure,74,40.99,3002.1,Month-to-month,Bank transfer (automatic),0
+CUST-00427,West,Mid Tenure - Standard,32,35.95,1221.25,Month-to-month,Electronic check,0
+CUST-00428,North,Mid Tenure - Standard,13,43.71,574.69,Two year,Bank transfer (automatic),1
+CUST-00429,East,Long Tenure,48,59.87,2881.76,One year,Electronic check,0
+CUST-00430,West,Mid Tenure - Premium,16,98.74,1599.35,Month-to-month,Credit card (automatic),0
+CUST-00431,South,Mid Tenure - Standard,29,21.91,629.18,Month-to-month,Electronic check,1
+CUST-00432,North,Long Tenure,37,27.13,994.22,Month-to-month,Mailed check,0
+CUST-00433,North,Mid Tenure - Premium,22,82.1,1780.72,Month-to-month,Credit card (automatic),0
+CUST-00434,West,Early Tenure,1,58.88,117.97,Month-to-month,Electronic check,0
+CUST-00435,East,Mid Tenure - Premium,28,74.32,2088.91,One year,Bank transfer (automatic),0
+CUST-00436,South,Mid Tenure - Premium,12,82.89,1003.86,Month-to-month,Electronic check,0
+CUST-00437,South,Mid Tenure - Standard,35,27.78,990.55,Month-to-month,Mailed check,0
+CUST-00438,East,Early Tenure,0,28.66,2.52,One year,Credit card (automatic),0
+CUST-00439,South,Mid Tenure - Standard,13,45.01,605.0,Month-to-month,Credit card (automatic),0
+CUST-00440,South,Long Tenure,45,29.19,1344.94,Two year,Electronic check,0
+CUST-00441,West,Early Tenure,0,97.75,0.0,Two year,Mailed check,0
+CUST-00442,West,Mid Tenure - Premium,19,105.76,2010.95,One year,Mailed check,0
+CUST-00443,South,Long Tenure,54,112.36,6131.24,Month-to-month,Credit card (automatic),0
+CUST-00444,South,Long Tenure,49,114.74,5620.29,Month-to-month,Electronic check,0
+CUST-00445,East,Long Tenure,49,72.45,3566.62,Month-to-month,Electronic check,0
+CUST-00446,West,Mid Tenure - Standard,34,69.64,2333.75,Two year,Electronic check,0
+CUST-00447,West,Long Tenure,50,29.59,1464.89,Month-to-month,Electronic check,0
+CUST-00448,East,Early Tenure,10,77.85,797.83,Two year,Bank transfer (automatic),1
+CUST-00449,East,Long Tenure,68,51.49,3513.98,Month-to-month,Credit card (automatic),1
+CUST-00450,West,Long Tenure,64,48.79,3128.41,Two year,Bank transfer (automatic),0
+CUST-00451,West,Long Tenure,42,48.55,2036.01,Two year,Electronic check,0
+CUST-00452,East,Mid Tenure - Standard,21,61.96,1294.53,Month-to-month,Credit card (automatic),0
+CUST-00453,West,Long Tenure,38,35.1,1306.66,One year,Bank transfer (automatic),0
+CUST-00454,West,Long Tenure,46,39.07,1842.48,Month-to-month,Electronic check,1
+CUST-00455,North,Mid Tenure - Premium,23,98.23,2240.09,Month-to-month,Bank transfer (automatic),0
+CUST-00456,North,Early Tenure,9,36.87,355.94,One year,Mailed check,0
+CUST-00457,East,Mid Tenure - Standard,27,47.08,1232.96,Month-to-month,Bank transfer (automatic),1
+CUST-00458,South,Long Tenure,46,84.38,3853.25,Two year,Mailed check,0
+CUST-00459,West,Mid Tenure - Standard,17,36.45,621.81,Month-to-month,Electronic check,0
+CUST-00460,South,Mid Tenure - Standard,20,46.16,884.97,Month-to-month,Bank transfer (automatic),0
+CUST-00461,East,Early Tenure,0,98.31,7.81,Month-to-month,Mailed check,1
+CUST-00462,North,Early Tenure,3,46.85,127.91,Month-to-month,Bank transfer (automatic),0
+CUST-00463,West,Early Tenure,2,44.81,51.2,Month-to-month,Bank transfer (automatic),0
+CUST-00464,East,Long Tenure,57,96.22,5457.88,Month-to-month,Mailed check,0
+CUST-00465,East,Early Tenure,0,44.65,0.0,One year,Electronic check,0
+CUST-00466,West,Early Tenure,10,85.2,884.94,One year,Mailed check,0
+CUST-00467,West,Early Tenure,0,99.86,0.0,Two year,Bank transfer (automatic),0
+CUST-00468,South,Long Tenure,38,96.79,3691.95,Month-to-month,Credit card (automatic),0
+CUST-00469,South,Mid Tenure - Standard,19,41.22,768.56,Two year,Bank transfer (automatic),0
+CUST-00470,West,Early Tenure,9,64.06,600.49,One year,Bank transfer (automatic),1
+CUST-00471,North,Mid Tenure - Standard,15,31.38,473.56,Two year,Electronic check,0
+CUST-00472,East,Mid Tenure - Standard,36,58.87,2132.02,Month-to-month,Mailed check,0
+CUST-00473,West,Mid Tenure - Premium,32,79.95,2529.97,Month-to-month,Mailed check,1
+CUST-00474,North,Mid Tenure - Premium,36,74.75,2732.69,Month-to-month,Bank transfer (automatic),1
+CUST-00475,North,Mid Tenure - Premium,14,111.71,1545.04,Month-to-month,Credit card (automatic),1
+CUST-00476,North,Long Tenure,68,91.9,6232.92,Month-to-month,Bank transfer (automatic),0
+CUST-00477,North,Mid Tenure - Standard,34,49.65,1738.71,One year,Mailed check,1
+CUST-00478,East,Mid Tenure - Premium,23,89.14,2070.0,Month-to-month,Electronic check,0
+CUST-00479,East,Early Tenure,4,54.13,261.45,Month-to-month,Mailed check,1
+CUST-00480,West,Mid Tenure - Premium,26,89.74,2320.12,Month-to-month,Mailed check,0
+CUST-00481,South,Early Tenure,7,93.27,678.14,Month-to-month,Electronic check,0
+CUST-00482,North,Long Tenure,37,62.21,2305.47,One year,Electronic check,1
+CUST-00483,East,Mid Tenure - Standard,36,20.88,788.24,Month-to-month,Mailed check,0
+CUST-00484,North,Early Tenure,5,59.79,271.87,One year,Bank transfer (automatic),0
+CUST-00485,North,Early Tenure,0,93.91,0.49,Month-to-month,Electronic check,0
+CUST-00486,South,Mid Tenure - Standard,26,67.15,1752.7,Month-to-month,Credit card (automatic),1
+CUST-00487,West,Mid Tenure - Standard,36,30.49,1098.5,Month-to-month,Electronic check,0
+CUST-00488,West,Mid Tenure - Premium,29,88.74,2563.75,Month-to-month,Electronic check,0
+CUST-00489,South,Mid Tenure - Premium,27,97.25,2633.73,Month-to-month,Bank transfer (automatic),0
+CUST-00490,East,Mid Tenure - Premium,19,100.87,1922.09,Month-to-month,Bank transfer (automatic),0
+CUST-00491,North,Early Tenure,7,110.73,821.79,Two year,Mailed check,1
+CUST-00492,North,Mid Tenure - Premium,36,111.42,4034.2,Month-to-month,Bank transfer (automatic),1
+CUST-00493,West,Mid Tenure - Premium,36,95.71,3411.15,One year,Credit card (automatic),1
+CUST-00494,North,Long Tenure,62,65.85,4116.07,Two year,Mailed check,0
+CUST-00495,West,Mid Tenure - Premium,33,101.94,3330.22,Month-to-month,Credit card (automatic),0
+CUST-00496,South,Long Tenure,43,24.37,1064.68,Month-to-month,Credit card (automatic),1
+CUST-00497,East,Long Tenure,57,52.14,2966.83,Month-to-month,Mailed check,0
+CUST-00498,North,Early Tenure,0,80.93,4.18,Month-to-month,Mailed check,1
+CUST-00499,North,Early Tenure,5,67.1,334.52,Month-to-month,Mailed check,1
+CUST-00500,West,Mid Tenure - Standard,34,41.16,1397.94,Month-to-month,Bank transfer (automatic),0
+CUST-00501,West,Early Tenure,0,62.57,11.42,Two year,Electronic check,0
+CUST-00502,West,Mid Tenure - Standard,27,58.33,1570.18,Month-to-month,Credit card (automatic),1
+CUST-00503,North,Long Tenure,47,82.19,3842.46,Two year,Bank transfer (automatic),0
+CUST-00504,East,Long Tenure,43,51.54,2172.16,Month-to-month,Electronic check,0
+CUST-00505,West,Mid Tenure - Premium,25,92.14,2291.48,One year,Bank transfer (automatic),1
+CUST-00506,East,Early Tenure,9,30.1,263.76,Month-to-month,Bank transfer (automatic),0
+CUST-00507,West,Long Tenure,49,37.82,1874.56,Month-to-month,Credit card (automatic),0
+CUST-00508,West,Mid Tenure - Standard,26,59.37,1531.94,Month-to-month,Mailed check,0
+CUST-00509,North,Early Tenure,2,67.9,144.62,One year,Credit card (automatic),0
+CUST-00510,North,Early Tenure,7,75.59,520.39,Month-to-month,Electronic check,0
+CUST-00511,South,Mid Tenure - Standard,26,56.8,1463.79,One year,Mailed check,0
+CUST-00512,East,Early Tenure,4,85.79,359.92,Month-to-month,Credit card (automatic),1
+CUST-00513,West,Mid Tenure - Standard,17,59.21,1010.48,Two year,Bank transfer (automatic),0
+CUST-00514,East,Mid Tenure - Premium,16,80.1,1224.73,Two year,Bank transfer (automatic),0
+CUST-00515,East,Long Tenure,56,111.04,6214.0,One year,Mailed check,0
+CUST-00516,East,Early Tenure,3,109.55,316.04,One year,Bank transfer (automatic),0
+CUST-00517,East,Mid Tenure - Standard,36,22.4,778.01,Two year,Credit card (automatic),0
+CUST-00518,North,Long Tenure,58,33.91,1962.86,Month-to-month,Mailed check,1
+CUST-00519,East,Mid Tenure - Premium,14,78.53,1120.71,Month-to-month,Electronic check,0
+CUST-00520,South,Mid Tenure - Premium,30,95.89,2920.35,One year,Credit card (automatic),1
+CUST-00521,North,Early Tenure,0,85.09,22.04,Two year,Credit card (automatic),0
+CUST-00522,North,Long Tenure,39,101.74,4016.08,Month-to-month,Bank transfer (automatic),0
+CUST-00523,South,Mid Tenure - Premium,28,77.32,2133.53,Two year,Bank transfer (automatic),0
+CUST-00524,South,Mid Tenure - Premium,35,111.44,3899.38,Month-to-month,Mailed check,0
+CUST-00525,North,Mid Tenure - Standard,25,35.29,901.51,Month-to-month,Credit card (automatic),0
+CUST-00526,North,Long Tenure,72,76.7,5536.66,Month-to-month,Mailed check,0
+CUST-00527,East,Long Tenure,56,69.91,3932.29,Month-to-month,Bank transfer (automatic),0
+CUST-00528,North,Early Tenure,6,28.73,188.02,One year,Mailed check,1
+CUST-00529,South,Mid Tenure - Premium,18,91.5,1660.47,One year,Bank transfer (automatic),0
+CUST-00530,North,Early Tenure,0,78.3,18.14,Month-to-month,Bank transfer (automatic),0
+CUST-00531,North,Early Tenure,1,30.77,61.01,One year,Bank transfer (automatic),1
+CUST-00532,East,Early Tenure,4,66.25,262.32,Month-to-month,Bank transfer (automatic),1
+CUST-00533,South,Long Tenure,39,110.85,4318.31,Month-to-month,Electronic check,0
+CUST-00534,North,Early Tenure,11,102.17,1086.07,One year,Mailed check,1
+CUST-00535,North,Early Tenure,0,90.95,0.0,Month-to-month,Credit card (automatic),1
+CUST-00536,West,Mid Tenure - Premium,33,95.45,3154.21,One year,Electronic check,0
+CUST-00537,South,Early Tenure,6,61.14,389.65,Two year,Credit card (automatic),1
+CUST-00538,North,Mid Tenure - Premium,28,86.58,2391.08,Month-to-month,Electronic check,1
+CUST-00539,North,Mid Tenure - Premium,15,108.04,1607.98,Month-to-month,Bank transfer (automatic),1
+CUST-00540,North,Long Tenure,41,95.76,3944.98,Month-to-month,Mailed check,0
+CUST-00541,South,Mid Tenure - Premium,30,103.1,3092.01,Month-to-month,Bank transfer (automatic),1
+CUST-00542,North,Early Tenure,0,48.95,0.0,Month-to-month,Credit card (automatic),0
+CUST-00543,East,Mid Tenure - Premium,35,99.3,3490.47,Month-to-month,Mailed check,1
+CUST-00544,South,Long Tenure,55,114.46,6248.65,One year,Electronic check,0
+CUST-00545,North,Mid Tenure - Premium,27,75.16,2045.9,Month-to-month,Electronic check,0
+CUST-00546,East,Long Tenure,50,105.51,5295.94,Month-to-month,Mailed check,1
+CUST-00547,West,Mid Tenure - Premium,23,73.85,1685.07,Month-to-month,Bank transfer (automatic),0
+CUST-00548,West,Mid Tenure - Premium,28,90.28,2545.53,Month-to-month,Bank transfer (automatic),1
+CUST-00549,East,Long Tenure,44,54.08,2360.17,Month-to-month,Bank transfer (automatic),1
+CUST-00550,North,Long Tenure,49,33.3,1590.24,Month-to-month,Electronic check,0
+CUST-00551,East,Mid Tenure - Premium,22,100.71,2163.39,One year,Electronic check,0
+CUST-00552,West,Long Tenure,49,71.63,3492.29,One year,Mailed check,0
+CUST-00553,West,Mid Tenure - Premium,18,93.35,1693.57,One year,Mailed check,0
+CUST-00554,East,Early Tenure,9,82.95,764.38,Month-to-month,Electronic check,0
+CUST-00555,South,Mid Tenure - Premium,16,110.13,1767.29,One year,Mailed check,0
+CUST-00556,South,Mid Tenure - Premium,33,92.34,3044.54,One year,Credit card (automatic),1
+CUST-00557,East,Mid Tenure - Premium,16,95.19,1496.71,Month-to-month,Electronic check,1
+CUST-00558,West,Long Tenure,45,86.85,3905.56,Two year,Electronic check,0
+CUST-00559,East,Early Tenure,5,55.78,263.49,Two year,Bank transfer (automatic),0
+CUST-00560,North,Long Tenure,41,58.56,2397.93,Month-to-month,Credit card (automatic),0
+CUST-00561,East,Mid Tenure - Premium,29,103.79,3008.04,Month-to-month,Credit card (automatic),1
+CUST-00562,South,Mid Tenure - Standard,31,54.41,1702.32,Month-to-month,Bank transfer (automatic),0
+CUST-00563,North,Long Tenure,39,65.74,2526.87,One year,Credit card (automatic),0
+CUST-00564,South,Mid Tenure - Premium,33,74.48,2458.88,One year,Credit card (automatic),1
+CUST-00565,North,Long Tenure,42,37.1,1564.85,Two year,Mailed check,0
+CUST-00566,North,Long Tenure,41,77.62,3176.74,Two year,Bank transfer (automatic),0
+CUST-00567,West,Early Tenure,0,97.94,0.0,Month-to-month,Credit card (automatic),1
+CUST-00568,East,Long Tenure,51,26.54,1337.75,Month-to-month,Bank transfer (automatic),0
+CUST-00569,South,Early Tenure,0,85.01,0.0,Month-to-month,Mailed check,0
+CUST-00570,North,Long Tenure,45,91.48,4095.21,Month-to-month,Electronic check,1
+CUST-00571,South,Long Tenure,55,81.68,4466.36,Two year,Electronic check,0
+CUST-00572,East,Mid Tenure - Premium,32,95.01,3084.96,Two year,Credit card (automatic),0
+CUST-00573,North,Mid Tenure - Premium,13,101.61,1323.53,Month-to-month,Bank transfer (automatic),1
+CUST-00574,West,Mid Tenure - Premium,19,74.91,1380.61,Month-to-month,Electronic check,1
+CUST-00575,North,Mid Tenure - Standard,21,54.42,1122.68,Month-to-month,Mailed check,1
+CUST-00576,East,Early Tenure,2,114.22,214.85,Month-to-month,Credit card (automatic),1
+CUST-00577,South,Long Tenure,39,65.96,2601.28,Month-to-month,Credit card (automatic),0
+CUST-00578,East,Mid Tenure - Premium,24,82.63,1934.19,One year,Credit card (automatic),0
+CUST-00579,West,Long Tenure,47,94.68,4467.51,One year,Mailed check,0
+CUST-00580,North,Long Tenure,40,64.81,2548.55,Month-to-month,Electronic check,0
+CUST-00581,North,Early Tenure,9,88.83,824.32,Month-to-month,Mailed check,0
+CUST-00582,West,Mid Tenure - Premium,21,109.84,2273.89,One year,Bank transfer (automatic),0
+CUST-00583,West,Long Tenure,55,69.22,3760.48,Month-to-month,Mailed check,1
+CUST-00584,South,Early Tenure,9,112.69,1042.35,One year,Electronic check,1
+CUST-00585,East,Mid Tenure - Standard,18,39.03,680.23,One year,Bank transfer (automatic),1
+CUST-00586,North,Mid Tenure - Premium,24,75.38,1777.48,Two year,Bank transfer (automatic),0
+CUST-00587,East,Early Tenure,8,20.44,170.65,Month-to-month,Mailed check,1
+CUST-00588,North,Mid Tenure - Standard,22,68.76,1523.25,One year,Bank transfer (automatic),0
+CUST-00589,East,Early Tenure,0,91.96,0.0,One year,Credit card (automatic),0
+CUST-00590,West,Mid Tenure - Standard,12,56.35,678.38,One year,Electronic check,0
+CUST-00591,South,Mid Tenure - Standard,34,53.54,1795.85,One year,Mailed check,0
+CUST-00592,East,Early Tenure,1,52.49,77.14,Month-to-month,Electronic check,0
+CUST-00593,South,Mid Tenure - Standard,33,37.36,1264.89,Month-to-month,Bank transfer (automatic),0
+CUST-00594,South,Mid Tenure - Standard,29,45.21,1329.62,Month-to-month,Mailed check,1
+CUST-00595,South,Mid Tenure - Premium,33,107.42,3554.72,Two year,Bank transfer (automatic),0
+CUST-00596,West,Long Tenure,39,49.96,1928.78,One year,Electronic check,0
+CUST-00597,East,Early Tenure,1,32.18,57.1,Month-to-month,Bank transfer (automatic),0
+CUST-00598,West,Early Tenure,7,85.2,596.01,Month-to-month,Electronic check,1
+CUST-00599,North,Mid Tenure - Premium,26,84.04,2188.02,One year,Credit card (automatic),0
+CUST-00600,North,Mid Tenure - Standard,34,45.59,1568.08,Month-to-month,Bank transfer (automatic),0
+CUST-00601,East,Early Tenure,9,91.46,835.12,Month-to-month,Credit card (automatic),1
+CUST-00602,West,Early Tenure,0,85.17,0.0,Month-to-month,Mailed check,0
+CUST-00603,East,Mid Tenure - Premium,36,96.0,3443.03,Two year,Credit card (automatic),0
+CUST-00604,West,Mid Tenure - Premium,18,104.86,1893.84,Two year,Mailed check,0
+CUST-00605,East,Mid Tenure - Standard,27,24.53,711.75,One year,Bank transfer (automatic),1
+CUST-00606,South,Early Tenure,0,62.74,5.18,Month-to-month,Bank transfer (automatic),1
+CUST-00607,East,Mid Tenure - Standard,16,53.35,874.98,Month-to-month,Bank transfer (automatic),0
+CUST-00608,South,Long Tenure,44,50.88,2236.08,One year,Mailed check,0
+CUST-00609,West,Early Tenure,11,110.88,1201.4,Two year,Credit card (automatic),0
+CUST-00610,East,Mid Tenure - Standard,32,35.39,1124.66,Month-to-month,Credit card (automatic),1
+CUST-00611,East,Mid Tenure - Premium,12,104.33,1236.54,One year,Bank transfer (automatic),0
+CUST-00612,East,Mid Tenure - Standard,17,22.19,385.43,One year,Credit card (automatic),0
+CUST-00613,East,Mid Tenure - Standard,32,29.08,954.94,Two year,Electronic check,0
+CUST-00614,West,Mid Tenure - Premium,31,114.62,3523.02,Month-to-month,Electronic check,1
+CUST-00615,South,Mid Tenure - Standard,22,47.0,1051.55,Month-to-month,Credit card (automatic),0
+CUST-00616,South,Long Tenure,57,101.74,5805.77,Month-to-month,Mailed check,1
+CUST-00617,West,Mid Tenure - Premium,17,110.11,1867.82,Month-to-month,Bank transfer (automatic),0
+CUST-00618,West,Early Tenure,0,49.42,0.0,One year,Credit card (automatic),1
+CUST-00619,South,Mid Tenure - Standard,20,34.79,719.89,Two year,Credit card (automatic),1
+CUST-00620,South,Early Tenure,0,66.73,0.0,Month-to-month,Credit card (automatic),0
+CUST-00621,East,Mid Tenure - Premium,36,95.69,3412.65,Month-to-month,Credit card (automatic),0
+CUST-00622,South,Mid Tenure - Premium,18,90.03,1629.71,Month-to-month,Credit card (automatic),1
+CUST-00623,West,Mid Tenure - Premium,14,92.63,1305.5,Month-to-month,Electronic check,0
+CUST-00624,East,Early Tenure,0,37.33,25.5,Month-to-month,Bank transfer (automatic),1
+CUST-00625,West,Mid Tenure - Standard,20,50.46,981.5,One year,Bank transfer (automatic),1
+CUST-00626,North,Mid Tenure - Standard,25,61.65,1553.91,Month-to-month,Electronic check,1
+CUST-00627,North,Mid Tenure - Premium,32,94.64,3054.03,Month-to-month,Credit card (automatic),0
+CUST-00628,East,Early Tenure,9,110.41,1035.85,Month-to-month,Electronic check,1
+CUST-00629,West,Long Tenure,45,43.76,2017.52,Month-to-month,Credit card (automatic),0
+CUST-00630,North,Early Tenure,0,43.48,44.96,Month-to-month,Mailed check,0
+CUST-00631,South,Early Tenure,0,64.92,0.0,Month-to-month,Electronic check,0
+CUST-00632,East,Mid Tenure - Premium,23,109.05,2502.83,Two year,Mailed check,0
+CUST-00633,East,Long Tenure,41,102.05,4233.62,Month-to-month,Bank transfer (automatic),1
+CUST-00634,North,Mid Tenure - Standard,22,46.23,1030.56,Month-to-month,Credit card (automatic),1
+CUST-00635,South,Early Tenure,1,85.4,66.72,Month-to-month,Electronic check,1
+CUST-00636,North,Long Tenure,51,108.43,5548.79,Month-to-month,Credit card (automatic),0
+CUST-00637,North,Mid Tenure - Standard,17,31.95,500.94,Month-to-month,Mailed check,1
+CUST-00638,East,Mid Tenure - Standard,27,55.89,1503.86,Two year,Credit card (automatic),0
+CUST-00639,East,Mid Tenure - Premium,21,71.56,1471.95,Two year,Credit card (automatic),0
+CUST-00640,South,Mid Tenure - Premium,26,98.98,2553.54,Month-to-month,Bank transfer (automatic),0
+CUST-00641,South,Early Tenure,0,71.45,14.46,Month-to-month,Mailed check,1
+CUST-00642,West,Mid Tenure - Premium,14,78.92,1088.63,One year,Electronic check,0
+CUST-00643,North,Long Tenure,39,92.74,3652.09,One year,Credit card (automatic),1
+CUST-00644,East,Long Tenure,46,26.33,1230.64,Month-to-month,Bank transfer (automatic),0
+CUST-00645,South,Mid Tenure - Standard,34,29.38,1026.44,Month-to-month,Electronic check,0
+CUST-00646,West,Long Tenure,41,88.2,3621.56,One year,Bank transfer (automatic),1
+CUST-00647,South,Early Tenure,0,54.29,7.11,One year,Electronic check,0
+CUST-00648,West,Mid Tenure - Standard,35,23.86,817.51,Two year,Electronic check,1
+CUST-00649,East,Mid Tenure - Premium,36,88.89,3197.27,Month-to-month,Mailed check,0
+CUST-00650,South,Early Tenure,0,73.05,0.0,Month-to-month,Mailed check,0
+CUST-00651,North,Mid Tenure - Standard,13,60.57,752.78,One year,Bank transfer (automatic),1
+CUST-00652,South,Mid Tenure - Premium,14,76.99,1052.04,Month-to-month,Bank transfer (automatic),0
+CUST-00653,East,Long Tenure,39,80.16,3104.91,One year,Bank transfer (automatic),0
+CUST-00654,East,Early Tenure,10,90.73,929.64,One year,Mailed check,1
+CUST-00655,West,Mid Tenure - Standard,33,47.03,1552.0,Month-to-month,Credit card (automatic),1
+CUST-00656,South,Long Tenure,85,40.41,3437.83,Two year,Bank transfer (automatic),0
+CUST-00657,East,Long Tenure,46,34.83,1617.69,Two year,Mailed check,0
+CUST-00658,South,Long Tenure,44,107.2,4730.59,Month-to-month,Bank transfer (automatic),0
+CUST-00659,East,Early Tenure,0,86.77,3.94,One year,Mailed check,0
+CUST-00660,North,Long Tenure,63,56.25,3554.32,One year,Bank transfer (automatic),0
+CUST-00661,East,Early Tenure,0,102.63,25.19,Month-to-month,Credit card (automatic),1
+CUST-00662,North,Long Tenure,50,50.34,2527.17,One year,Credit card (automatic),0
+CUST-00663,East,Long Tenure,45,114.75,5194.45,Month-to-month,Mailed check,0
+CUST-00664,North,Mid Tenure - Standard,30,51.94,1544.42,Month-to-month,Bank transfer (automatic),0
+CUST-00665,North,Long Tenure,48,93.51,4503.52,Month-to-month,Bank transfer (automatic),1
+CUST-00666,South,Early Tenure,0,38.63,2.77,Month-to-month,Mailed check,0
+CUST-00667,South,Mid Tenure - Premium,30,107.79,3211.91,Month-to-month,Bank transfer (automatic),1
+CUST-00668,West,Mid Tenure - Premium,34,82.26,2818.23,Month-to-month,Bank transfer (automatic),0
+CUST-00669,South,Mid Tenure - Premium,12,107.8,1274.77,Two year,Credit card (automatic),1
+CUST-00670,East,Mid Tenure - Premium,33,110.15,3640.38,Month-to-month,Electronic check,0
+CUST-00671,East,Mid Tenure - Standard,20,51.53,1057.15,Month-to-month,Electronic check,0
+CUST-00672,South,Early Tenure,1,114.27,103.73,Month-to-month,Bank transfer (automatic),0
+CUST-00673,North,Mid Tenure - Standard,27,39.07,1063.69,Month-to-month,Electronic check,0
+CUST-00674,East,Long Tenure,54,82.98,4495.85,Month-to-month,Electronic check,0
+CUST-00675,East,Mid Tenure - Standard,17,56.72,1014.23,Two year,Electronic check,0
+CUST-00676,North,Long Tenure,44,37.71,1636.37,Two year,Credit card (automatic),0
+CUST-00677,West,Long Tenure,71,48.97,3490.84,One year,Electronic check,0
+CUST-00678,South,Mid Tenure - Premium,17,114.62,1965.27,Month-to-month,Bank transfer (automatic),0
+CUST-00679,East,Long Tenure,58,97.41,5613.48,Two year,Bank transfer (automatic),1
+CUST-00680,East,Long Tenure,51,28.34,1423.32,Month-to-month,Bank transfer (automatic),0
+CUST-00681,South,Mid Tenure - Premium,12,77.51,939.77,Month-to-month,Mailed check,0
+CUST-00682,South,Early Tenure,1,39.22,20.72,Month-to-month,Mailed check,1
+CUST-00683,South,Mid Tenure - Standard,13,35.01,428.32,Month-to-month,Mailed check,1
+CUST-00684,North,Mid Tenure - Premium,23,103.61,2340.9,Month-to-month,Mailed check,1
+CUST-00685,West,Mid Tenure - Standard,35,32.5,1150.67,Month-to-month,Bank transfer (automatic),1
+CUST-00686,East,Mid Tenure - Standard,16,22.48,349.37,One year,Mailed check,1
+CUST-00687,West,Mid Tenure - Premium,23,100.95,2298.34,Month-to-month,Credit card (automatic),0
+CUST-00688,South,Long Tenure,61,21.43,1315.78,Month-to-month,Mailed check,1
+CUST-00689,West,Mid Tenure - Premium,28,108.07,3016.72,Month-to-month,Mailed check,0
+CUST-00690,West,Long Tenure,44,93.74,4107.42,One year,Credit card (automatic),0
+CUST-00691,West,Early Tenure,2,76.41,126.27,One year,Credit card (automatic),0
+CUST-00692,North,Early Tenure,0,103.39,13.71,Month-to-month,Credit card (automatic),1
+CUST-00693,West,Early Tenure,5,79.91,388.87,Two year,Electronic check,1
+CUST-00694,East,Mid Tenure - Standard,30,35.82,1054.31,Month-to-month,Bank transfer (automatic),1
+CUST-00695,North,Early Tenure,0,28.59,8.17,One year,Mailed check,0
+CUST-00696,South,Mid Tenure - Standard,14,22.37,326.94,One year,Mailed check,0
+CUST-00697,South,Mid Tenure - Premium,27,106.18,2905.21,Two year,Electronic check,0
+CUST-00698,North,Mid Tenure - Premium,22,87.19,1910.3,Month-to-month,Credit card (automatic),0
+CUST-00699,South,Long Tenure,39,51.84,2025.93,Month-to-month,Credit card (automatic),0
+CUST-00700,South,Long Tenure,41,59.86,2489.83,Month-to-month,Mailed check,1
+CUST-00701,West,Mid Tenure - Standard,35,39.27,1383.39,Month-to-month,Mailed check,0
+CUST-00702,East,Long Tenure,43,20.55,858.96,Month-to-month,Credit card (automatic),0
+CUST-00703,South,Early Tenure,7,77.12,547.58,Month-to-month,Credit card (automatic),1
+CUST-00704,East,Long Tenure,38,82.06,3122.56,One year,Mailed check,1
+CUST-00705,North,Mid Tenure - Standard,23,30.34,707.17,One year,Bank transfer (automatic),0
+CUST-00706,South,Long Tenure,60,54.22,3244.46,One year,Mailed check,1
+CUST-00707,East,Long Tenure,42,100.11,4166.52,Month-to-month,Credit card (automatic),1
+CUST-00708,West,Mid Tenure - Standard,18,39.94,741.62,Month-to-month,Bank transfer (automatic),1
+CUST-00709,North,Early Tenure,0,108.72,3.91,Month-to-month,Electronic check,0
+CUST-00710,East,Mid Tenure - Premium,26,79.21,2092.11,Month-to-month,Bank transfer (automatic),0
+CUST-00711,West,Mid Tenure - Premium,15,77.89,1169.09,Month-to-month,Credit card (automatic),0
+CUST-00712,South,Early Tenure,0,90.06,9.77,Month-to-month,Electronic check,1
+CUST-00713,West,Early Tenure,6,40.17,277.71,Month-to-month,Bank transfer (automatic),0
+CUST-00714,East,Mid Tenure - Standard,19,50.77,992.41,Month-to-month,Electronic check,1
+CUST-00715,East,Mid Tenure - Premium,34,99.21,3358.85,Month-to-month,Electronic check,0
+CUST-00716,West,Mid Tenure - Premium,14,79.58,1091.41,Two year,Electronic check,0
+CUST-00717,East,Mid Tenure - Standard,34,69.5,2359.28,Month-to-month,Credit card (automatic),0
+CUST-00718,East,Mid Tenure - Premium,35,95.96,3395.33,One year,Electronic check,0
+CUST-00719,East,Mid Tenure - Premium,27,113.44,3069.06,Month-to-month,Mailed check,0
+CUST-00720,South,Mid Tenure - Premium,31,94.32,2935.43,One year,Credit card (automatic),1
+CUST-00721,East,Early Tenure,7,42.58,313.16,One year,Bank transfer (automatic),0
+CUST-00722,East,Mid Tenure - Standard,36,23.55,869.37,Month-to-month,Bank transfer (automatic),1
+CUST-00723,North,Long Tenure,41,34.64,1368.55,Month-to-month,Electronic check,0
+CUST-00724,West,Mid Tenure - Premium,29,102.82,2968.05,One year,Bank transfer (automatic),0
+CUST-00725,South,Early Tenure,0,69.62,9.98,Month-to-month,Electronic check,1
+CUST-00726,North,Early Tenure,7,29.79,253.95,One year,Electronic check,0
+CUST-00727,East,Mid Tenure - Standard,19,39.05,728.81,Month-to-month,Bank transfer (automatic),1
+CUST-00728,East,Mid Tenure - Standard,26,30.87,817.11,One year,Electronic check,0
+CUST-00729,North,Mid Tenure - Premium,12,109.61,1309.25,Month-to-month,Bank transfer (automatic),0
+CUST-00730,South,Mid Tenure - Standard,14,62.15,855.25,Month-to-month,Bank transfer (automatic),1
+CUST-00731,West,Mid Tenure - Standard,33,60.51,2001.96,Two year,Electronic check,1
+CUST-00732,West,Mid Tenure - Premium,21,92.05,1947.49,One year,Bank transfer (automatic),0
+CUST-00733,North,Mid Tenure - Premium,19,96.22,1823.62,Two year,Credit card (automatic),0
+CUST-00734,North,Early Tenure,0,33.65,11.17,Month-to-month,Credit card (automatic),0
+CUST-00735,East,Long Tenure,46,51.38,2414.47,Two year,Credit card (automatic),0
+CUST-00736,East,Mid Tenure - Standard,36,65.47,2361.81,Month-to-month,Electronic check,0
+CUST-00737,East,Early Tenure,7,87.86,613.75,One year,Mailed check,1
+CUST-00738,North,Early Tenure,11,78.98,883.85,One year,Credit card (automatic),0
+CUST-00739,West,Mid Tenure - Standard,35,60.96,2170.76,Month-to-month,Bank transfer (automatic),0
+CUST-00740,East,Long Tenure,41,90.24,3732.79,Month-to-month,Mailed check,0
+CUST-00741,West,Mid Tenure - Standard,23,62.3,1442.99,Month-to-month,Credit card (automatic),1
+CUST-00742,West,Mid Tenure - Premium,17,97.89,1633.18,Month-to-month,Electronic check,1
+CUST-00743,North,Long Tenure,60,80.43,4790.65,Month-to-month,Mailed check,1
+CUST-00744,South,Early Tenure,8,74.9,594.35,One year,Credit card (automatic),1
+CUST-00745,East,Long Tenure,68,88.19,5968.14,Month-to-month,Bank transfer (automatic),0
+CUST-00746,North,Long Tenure,50,25.93,1256.51,One year,Credit card (automatic),0
+CUST-00747,North,Long Tenure,40,22.96,931.35,Month-to-month,Bank transfer (automatic),0
+CUST-00748,West,Early Tenure,10,40.07,415.58,One year,Credit card (automatic),1
+CUST-00749,South,Long Tenure,38,59.64,2246.64,Month-to-month,Credit card (automatic),1
+CUST-00750,South,Mid Tenure - Premium,21,104.06,2174.07,Month-to-month,Electronic check,0
+CUST-00751,South,Long Tenure,55,86.06,4692.56,Month-to-month,Credit card (automatic),0
+CUST-00752,South,Early Tenure,7,53.75,367.47,Month-to-month,Credit card (automatic),1
+CUST-00753,North,Mid Tenure - Premium,24,108.02,2573.24,One year,Mailed check,0
+CUST-00754,North,Mid Tenure - Standard,25,65.75,1631.99,Two year,Credit card (automatic),0
+CUST-00755,South,Mid Tenure - Premium,20,104.54,2093.01,One year,Bank transfer (automatic),1
+CUST-00756,West,Mid Tenure - Premium,17,75.06,1247.53,One year,Electronic check,0
+CUST-00757,East,Early Tenure,4,64.58,264.15,Month-to-month,Electronic check,0
+CUST-00758,West,Mid Tenure - Premium,26,107.67,2805.92,Month-to-month,Bank transfer (automatic),0
+CUST-00759,East,Early Tenure,4,82.35,314.03,Month-to-month,Credit card (automatic),1
+CUST-00760,North,Mid Tenure - Premium,33,94.46,3124.33,Month-to-month,Electronic check,1
+CUST-00761,East,Long Tenure,37,36.59,1354.91,Month-to-month,Bank transfer (automatic),0
+CUST-00762,South,Mid Tenure - Premium,33,86.57,2838.63,One year,Bank transfer (automatic),0
+CUST-00763,North,Long Tenure,54,98.06,5288.39,Month-to-month,Electronic check,0
+CUST-00764,West,Early Tenure,10,35.89,324.84,One year,Mailed check,0
+CUST-00765,East,Mid Tenure - Standard,28,35.92,993.35,Month-to-month,Bank transfer (automatic),0
+CUST-00766,East,Early Tenure,5,65.09,352.25,Month-to-month,Mailed check,1
+CUST-00767,West,Mid Tenure - Premium,15,70.37,1070.26,Month-to-month,Credit card (automatic),0
+CUST-00768,North,Long Tenure,48,107.21,5138.85,Two year,Bank transfer (automatic),0
+CUST-00769,East,Mid Tenure - Standard,27,63.81,1755.97,Month-to-month,Electronic check,0
+CUST-00770,South,Early Tenure,0,114.36,0.0,One year,Mailed check,1
+CUST-00771,North,Long Tenure,37,29.87,1106.04,One year,Electronic check,0
+CUST-00772,South,Mid Tenure - Standard,29,28.73,838.3,One year,Bank transfer (automatic),0
+CUST-00773,South,Mid Tenure - Premium,25,101.36,2521.8,Two year,Electronic check,1
+CUST-00774,South,Mid Tenure - Premium,27,108.94,2969.42,Two year,Mailed check,0
+CUST-00775,East,Mid Tenure - Standard,26,46.34,1248.35,One year,Bank transfer (automatic),1
+CUST-00776,West,Mid Tenure - Standard,26,36.9,1005.1,Month-to-month,Electronic check,1
+CUST-00777,South,Mid Tenure - Premium,22,71.36,1560.43,One year,Mailed check,0
+CUST-00778,North,Mid Tenure - Premium,34,74.28,2531.4,Two year,Bank transfer (automatic),0
+CUST-00779,West,Long Tenure,44,108.62,4808.05,Month-to-month,Credit card (automatic),0
+CUST-00780,East,Long Tenure,49,68.96,3360.6,Month-to-month,Bank transfer (automatic),0
+CUST-00781,West,Long Tenure,47,94.61,4410.49,Month-to-month,Credit card (automatic),0
+CUST-00782,North,Long Tenure,45,114.2,5160.36,Month-to-month,Credit card (automatic),1
+CUST-00783,East,Early Tenure,2,52.31,141.29,Month-to-month,Electronic check,0
+CUST-00784,East,Early Tenure,0,82.77,0.0,One year,Mailed check,1
+CUST-00785,West,Early Tenure,0,61.61,4.41,Two year,Bank transfer (automatic),1
+CUST-00786,North,Mid Tenure - Premium,20,71.35,1427.61,Month-to-month,Mailed check,1
+CUST-00787,West,Mid Tenure - Premium,34,94.84,3226.52,Two year,Electronic check,1
+CUST-00788,North,Long Tenure,65,70.97,4594.48,Month-to-month,Credit card (automatic),0
+CUST-00789,South,Mid Tenure - Standard,25,21.81,516.41,Two year,Electronic check,0
+CUST-00790,North,Long Tenure,56,105.94,5935.83,Month-to-month,Mailed check,0
+CUST-00791,North,Mid Tenure - Premium,31,97.66,3019.65,Month-to-month,Mailed check,1
+CUST-00792,South,Early Tenure,0,113.31,20.42,Month-to-month,Mailed check,0
+CUST-00793,East,Early Tenure,5,40.26,259.52,Month-to-month,Mailed check,1
+CUST-00794,South,Mid Tenure - Standard,22,35.96,832.73,Month-to-month,Electronic check,0
+CUST-00795,South,Long Tenure,51,80.06,4115.94,Month-to-month,Electronic check,0
+CUST-00796,South,Mid Tenure - Premium,30,107.98,3240.86,Month-to-month,Credit card (automatic),0
+CUST-00797,East,Mid Tenure - Premium,23,80.78,1842.05,Month-to-month,Credit card (automatic),0
+CUST-00798,West,Mid Tenure - Standard,23,37.1,848.87,Month-to-month,Mailed check,0
+CUST-00799,North,Mid Tenure - Standard,26,42.39,1104.09,One year,Bank transfer (automatic),1
+CUST-00800,North,Early Tenure,0,39.77,7.82,One year,Mailed check,1
+CUST-00801,North,Mid Tenure - Premium,16,107.65,1722.63,One year,Credit card (automatic),1
+CUST-00802,East,Mid Tenure - Premium,27,104.56,2857.75,Month-to-month,Credit card (automatic),1
+CUST-00803,North,Mid Tenure - Standard,30,68.92,2072.69,One year,Mailed check,1
+CUST-00804,South,Early Tenure,0,105.35,20.18,One year,Bank transfer (automatic),1
+CUST-00805,North,Mid Tenure - Standard,29,39.0,1156.7,Month-to-month,Electronic check,0
+CUST-00806,North,Long Tenure,48,40.54,1954.88,Month-to-month,Credit card (automatic),0
+CUST-00807,South,Mid Tenure - Standard,15,54.07,815.36,Month-to-month,Mailed check,1
+CUST-00808,East,Mid Tenure - Standard,26,64.23,1681.89,Month-to-month,Electronic check,0
+CUST-00809,East,Early Tenure,0,80.61,0.0,Month-to-month,Bank transfer (automatic),0
+CUST-00810,South,Long Tenure,61,66.48,4080.77,One year,Mailed check,0
+CUST-00811,West,Long Tenure,49,102.9,5044.51,Two year,Bank transfer (automatic),0
+CUST-00812,West,Long Tenure,64,59.69,3792.59,One year,Mailed check,1
+CUST-00813,West,Early Tenure,10,96.92,980.47,One year,Electronic check,0
+CUST-00814,North,Long Tenure,56,85.85,4828.45,Month-to-month,Mailed check,0
+CUST-00815,South,Mid Tenure - Standard,33,21.51,802.22,Month-to-month,Bank transfer (automatic),0
+CUST-00816,South,Long Tenure,50,33.17,1654.38,One year,Electronic check,0
+CUST-00817,South,Early Tenure,6,20.13,92.89,One year,Bank transfer (automatic),0
+CUST-00818,West,Early Tenure,11,91.52,1002.67,Two year,Bank transfer (automatic),0
+CUST-00819,South,Mid Tenure - Premium,14,108.56,1504.31,One year,Electronic check,0
+CUST-00820,East,Early Tenure,11,23.88,281.45,Two year,Electronic check,0
+CUST-00821,North,Long Tenure,39,71.27,2796.78,One year,Mailed check,0
+CUST-00822,South,Early Tenure,9,67.84,658.82,One year,Mailed check,0
+CUST-00823,North,Early Tenure,5,98.81,502.74,Month-to-month,Bank transfer (automatic),1
+CUST-00824,East,Long Tenure,42,96.84,4009.94,Month-to-month,Bank transfer (automatic),0
+CUST-00825,North,Long Tenure,44,36.99,1640.54,Month-to-month,Credit card (automatic),0
+CUST-00826,North,Mid Tenure - Standard,36,34.3,1243.96,Month-to-month,Bank transfer (automatic),1
+CUST-00827,North,Early Tenure,7,90.08,634.82,Month-to-month,Mailed check,1
+CUST-00828,South,Long Tenure,40,51.91,2050.34,Month-to-month,Mailed check,0
+CUST-00829,East,Early Tenure,3,105.34,324.46,Month-to-month,Credit card (automatic),1
+CUST-00830,East,Long Tenure,61,24.5,1486.66,Month-to-month,Bank transfer (automatic),0
+CUST-00831,West,Mid Tenure - Premium,24,112.45,2678.9,Two year,Mailed check,0
+CUST-00832,South,Long Tenure,44,32.01,1414.02,Month-to-month,Electronic check,1
+CUST-00833,South,Early Tenure,0,34.05,0.0,Month-to-month,Electronic check,1
+CUST-00834,South,Long Tenure,45,67.44,3022.6,Month-to-month,Electronic check,1
+CUST-00835,West,Long Tenure,60,112.68,6761.9,Two year,Mailed check,0
+CUST-00836,East,Long Tenure,60,114.44,6858.45,Month-to-month,Bank transfer (automatic),0
+CUST-00837,West,Mid Tenure - Standard,23,33.25,711.44,Month-to-month,Electronic check,0
+CUST-00838,East,Mid Tenure - Standard,19,25.23,483.04,Month-to-month,Mailed check,0
+CUST-00839,South,Mid Tenure - Premium,30,100.7,3030.84,One year,Bank transfer (automatic),0
+CUST-00840,North,Mid Tenure - Premium,33,77.48,2577.38,Two year,Credit card (automatic),0
+CUST-00841,East,Mid Tenure - Standard,14,47.04,676.2,Month-to-month,Credit card (automatic),1
+CUST-00842,West,Mid Tenure - Premium,36,90.45,3307.28,Two year,Electronic check,0
+CUST-00843,West,Mid Tenure - Premium,25,99.37,2458.63,Month-to-month,Credit card (automatic),0
+CUST-00844,South,Long Tenure,52,51.86,2694.49,Month-to-month,Credit card (automatic),0
+CUST-00845,West,Mid Tenure - Standard,17,36.61,607.07,Month-to-month,Credit card (automatic),0
+CUST-00846,South,Mid Tenure - Premium,22,98.17,2187.89,Month-to-month,Credit card (automatic),1
+CUST-00847,East,Mid Tenure - Standard,33,34.63,1186.47,Month-to-month,Credit card (automatic),1
+CUST-00848,West,Early Tenure,7,85.35,611.92,Month-to-month,Bank transfer (automatic),1
+CUST-00849,North,Mid Tenure - Premium,35,90.83,3178.72,One year,Credit card (automatic),0
+CUST-00850,West,Long Tenure,64,55.45,3541.37,Two year,Credit card (automatic),0
+CUST-00851,North,Mid Tenure - Standard,18,63.8,1141.5,Two year,Mailed check,0
+CUST-00852,East,Early Tenure,9,110.74,1023.89,Month-to-month,Bank transfer (automatic),1
+CUST-00853,East,Early Tenure,0,37.41,0.0,Month-to-month,Electronic check,1
+CUST-00854,South,Long Tenure,42,48.6,2007.54,Month-to-month,Bank transfer (automatic),0
+CUST-00855,East,Mid Tenure - Standard,29,69.23,2004.06,Month-to-month,Bank transfer (automatic),1
+CUST-00856,West,Long Tenure,37,41.01,1526.06,Month-to-month,Mailed check,1
+CUST-00857,North,Mid Tenure - Standard,35,21.65,766.62,Month-to-month,Electronic check,1
+CUST-00858,East,Long Tenure,48,92.54,4420.37,Month-to-month,Credit card (automatic),1
+CUST-00859,East,Mid Tenure - Standard,34,33.52,1188.23,Month-to-month,Electronic check,1
+CUST-00860,South,Early Tenure,0,30.61,19.31,Month-to-month,Electronic check,1
+CUST-00861,West,Mid Tenure - Premium,29,82.68,2403.81,One year,Electronic check,0
+CUST-00862,West,Long Tenure,44,20.98,928.81,Month-to-month,Bank transfer (automatic),1
+CUST-00863,North,Mid Tenure - Premium,16,83.71,1330.62,Two year,Mailed check,1
+CUST-00864,South,Long Tenure,45,35.25,1578.94,Two year,Bank transfer (automatic),0
+CUST-00865,South,Long Tenure,49,21.33,1064.33,Month-to-month,Electronic check,1
+CUST-00866,South,Long Tenure,48,112.49,5381.54,Two year,Mailed check,1
+CUST-00867,South,Early Tenure,10,61.77,642.52,Two year,Credit card (automatic),0
+CUST-00868,South,Early Tenure,6,58.72,366.11,Two year,Credit card (automatic),0
+CUST-00869,East,Early Tenure,4,54.32,213.66,Month-to-month,Electronic check,1
+CUST-00870,North,Long Tenure,40,77.04,3095.17,Month-to-month,Credit card (automatic),1
+CUST-00871,West,Mid Tenure - Standard,18,37.93,730.31,Month-to-month,Credit card (automatic),1
+CUST-00872,West,Long Tenure,59,66.71,4018.3,Two year,Bank transfer (automatic),0
+CUST-00873,West,Long Tenure,42,86.03,3630.32,Month-to-month,Electronic check,0
+CUST-00874,South,Mid Tenure - Premium,13,114.11,1511.96,Month-to-month,Mailed check,1
+CUST-00875,West,Mid Tenure - Premium,31,76.4,2325.98,One year,Bank transfer (automatic),0
+CUST-00876,West,Long Tenure,51,34.0,1731.66,Month-to-month,Credit card (automatic),0
+CUST-00877,North,Mid Tenure - Standard,33,22.82,812.36,Month-to-month,Credit card (automatic),0
+CUST-00878,North,Long Tenure,47,84.52,3968.15,Month-to-month,Electronic check,1
+CUST-00879,North,Mid Tenure - Premium,31,82.9,2553.71,One year,Credit card (automatic),0
+CUST-00880,East,Mid Tenure - Standard,32,60.89,1946.62,Month-to-month,Electronic check,0
+CUST-00881,West,Mid Tenure - Standard,22,36.8,811.99,Month-to-month,Credit card (automatic),0
+CUST-00882,East,Mid Tenure - Premium,17,87.99,1496.55,Two year,Mailed check,0
+CUST-00883,North,Early Tenure,11,74.36,785.85,One year,Credit card (automatic),0
+CUST-00884,South,Mid Tenure - Standard,25,55.89,1430.56,Month-to-month,Credit card (automatic),0
+CUST-00885,East,Mid Tenure - Standard,19,54.81,1034.34,Month-to-month,Electronic check,0
+CUST-00886,North,Mid Tenure - Premium,12,114.23,1388.78,One year,Bank transfer (automatic),0
+CUST-00887,North,Mid Tenure - Standard,29,28.07,835.55,One year,Mailed check,0
+CUST-00888,East,Long Tenure,45,63.79,2873.29,Month-to-month,Mailed check,0
+CUST-00889,West,Early Tenure,0,55.89,0.0,Month-to-month,Credit card (automatic),1
+CUST-00890,North,Mid Tenure - Standard,23,67.19,1529.55,Two year,Electronic check,0
+CUST-00891,East,Mid Tenure - Standard,14,67.21,961.19,Month-to-month,Bank transfer (automatic),0
+CUST-00892,North,Mid Tenure - Premium,26,114.64,2988.23,Two year,Mailed check,0
+CUST-00893,South,Mid Tenure - Premium,22,76.23,1644.89,One year,Electronic check,0
+CUST-00894,West,Mid Tenure - Standard,36,48.68,1717.66,Month-to-month,Bank transfer (automatic),0
+CUST-00895,West,Mid Tenure - Premium,34,79.37,2722.71,One year,Bank transfer (automatic),0
+CUST-00896,South,Mid Tenure - Premium,15,111.4,1662.97,Two year,Mailed check,0
+CUST-00897,West,Long Tenure,57,25.69,1448.26,Month-to-month,Credit card (automatic),1
+CUST-00898,West,Mid Tenure - Premium,27,100.19,2662.56,Month-to-month,Mailed check,1
+CUST-00899,North,Mid Tenure - Standard,26,35.26,937.21,One year,Credit card (automatic),0
+CUST-00900,South,Mid Tenure - Premium,30,95.72,2876.39,Month-to-month,Electronic check,1
+CUST-00901,West,Early Tenure,0,39.19,25.56,One year,Credit card (automatic),1
+CUST-00902,North,Mid Tenure - Premium,21,100.99,2107.73,Month-to-month,Bank transfer (automatic),0
+CUST-00903,West,Mid Tenure - Premium,33,77.15,2537.87,One year,Electronic check,0
+CUST-00904,West,Early Tenure,0,100.06,28.87,Two year,Electronic check,1
+CUST-00905,North,Mid Tenure - Premium,19,76.98,1462.86,Month-to-month,Bank transfer (automatic),0
+CUST-00906,East,Long Tenure,39,108.87,4207.18,Month-to-month,Credit card (automatic),1
+CUST-00907,North,Mid Tenure - Premium,13,76.0,995.11,Month-to-month,Bank transfer (automatic),0
+CUST-00908,East,Mid Tenure - Premium,19,84.86,1636.33,One year,Electronic check,0
+CUST-00909,South,Mid Tenure - Premium,29,111.85,3239.0,Month-to-month,Bank transfer (automatic),0
+CUST-00910,North,Mid Tenure - Premium,27,80.7,2203.53,One year,Mailed check,0
+CUST-00911,North,Long Tenure,40,106.43,4237.86,Month-to-month,Mailed check,1
+CUST-00912,East,Mid Tenure - Standard,16,35.22,610.86,Month-to-month,Mailed check,0
+CUST-00913,East,Mid Tenure - Standard,31,27.61,836.51,Two year,Credit card (automatic),0
+CUST-00914,West,Long Tenure,44,60.12,2635.26,Month-to-month,Credit card (automatic),0
+CUST-00915,North,Early Tenure,9,77.2,693.87,Two year,Bank transfer (automatic),0
+CUST-00916,East,Mid Tenure - Standard,30,37.46,1088.1,Month-to-month,Electronic check,0
+CUST-00917,South,Mid Tenure - Standard,15,27.81,401.5,Month-to-month,Mailed check,1
+CUST-00918,South,Mid Tenure - Standard,32,65.44,2072.93,Two year,Credit card (automatic),0
+CUST-00919,East,Mid Tenure - Standard,32,59.38,1884.32,Month-to-month,Bank transfer (automatic),1
+CUST-00920,West,Mid Tenure - Premium,32,73.06,2338.62,Two year,Mailed check,0
+CUST-00921,South,Long Tenure,37,36.03,1369.94,Two year,Credit card (automatic),0
+CUST-00922,West,Long Tenure,44,109.99,4852.27,One year,Mailed check,1
+CUST-00923,West,Long Tenure,38,41.33,1544.72,One year,Credit card (automatic),0
+CUST-00924,East,Mid Tenure - Standard,12,39.63,493.49,Month-to-month,Credit card (automatic),1
+CUST-00925,East,Early Tenure,10,33.86,351.18,One year,Mailed check,1
+CUST-00926,East,Long Tenure,44,85.01,3727.23,Month-to-month,Credit card (automatic),0
+CUST-00927,North,Long Tenure,47,40.16,1883.49,Month-to-month,Bank transfer (automatic),0
+CUST-00928,West,Long Tenure,50,24.95,1261.63,One year,Bank transfer (automatic),0
+CUST-00929,West,Long Tenure,51,56.19,2866.69,Two year,Electronic check,0
+CUST-00930,East,Mid Tenure - Standard,14,67.86,940.64,Month-to-month,Electronic check,0
+CUST-00931,West,Mid Tenure - Standard,22,44.74,958.48,Month-to-month,Bank transfer (automatic),1
+CUST-00932,South,Mid Tenure - Standard,27,46.88,1208.68,Month-to-month,Bank transfer (automatic),0
+CUST-00933,East,Long Tenure,41,114.48,4680.09,Month-to-month,Credit card (automatic),0
+CUST-00934,South,Long Tenure,38,41.84,1594.57,One year,Credit card (automatic),1
+CUST-00935,East,Early Tenure,0,108.08,31.77,Month-to-month,Credit card (automatic),1
+CUST-00936,East,Mid Tenure - Premium,18,88.38,1594.04,Two year,Credit card (automatic),1
+CUST-00937,East,Mid Tenure - Standard,33,68.33,2268.65,Month-to-month,Bank transfer (automatic),1
+CUST-00938,South,Early Tenure,2,59.56,113.83,One year,Electronic check,1
+CUST-00939,West,Long Tenure,57,84.66,4831.76,One year,Bank transfer (automatic),0
+CUST-00940,North,Long Tenure,49,87.23,4279.28,Two year,Mailed check,0
+CUST-00941,East,Mid Tenure - Premium,25,79.12,1984.57,One year,Electronic check,0
+CUST-00942,South,Mid Tenure - Premium,33,95.82,3142.73,Month-to-month,Electronic check,0
+CUST-00943,West,Long Tenure,50,102.22,5169.24,Month-to-month,Bank transfer (automatic),1
+CUST-00944,South,Mid Tenure - Premium,20,82.14,1683.58,Month-to-month,Credit card (automatic),1
+CUST-00945,West,Long Tenure,50,54.11,2686.16,Two year,Bank transfer (automatic),1
+CUST-00946,East,Early Tenure,9,45.51,417.92,Month-to-month,Credit card (automatic),0
+CUST-00947,North,Early Tenure,11,60.47,647.67,One year,Bank transfer (automatic),1
+CUST-00948,East,Early Tenure,9,108.41,944.06,Two year,Mailed check,0
+CUST-00949,North,Long Tenure,59,48.54,2885.32,Month-to-month,Credit card (automatic),0
+CUST-00950,East,Mid Tenure - Standard,26,27.27,716.52,Two year,Credit card (automatic),1
+CUST-00951,North,Long Tenure,52,74.01,3869.09,Month-to-month,Credit card (automatic),1
+CUST-00952,East,Long Tenure,50,37.06,1877.15,One year,Electronic check,0
+CUST-00953,West,Long Tenure,40,75.78,3016.5,Month-to-month,Credit card (automatic),0
+CUST-00954,West,Early Tenure,3,96.95,337.82,One year,Bank transfer (automatic),1
+CUST-00955,North,Mid Tenure - Premium,34,70.77,2397.62,One year,Bank transfer (automatic),1
+CUST-00956,North,Early Tenure,8,82.48,666.15,Month-to-month,Credit card (automatic),0
+CUST-00957,West,Early Tenure,9,84.13,697.35,Month-to-month,Bank transfer (automatic),0
+CUST-00958,North,Long Tenure,41,86.12,3573.77,Month-to-month,Electronic check,1
+CUST-00959,North,Mid Tenure - Premium,15,79.48,1170.59,Month-to-month,Mailed check,0
+CUST-00960,South,Long Tenure,40,31.06,1263.39,Month-to-month,Credit card (automatic),0
+CUST-00961,West,Long Tenure,49,43.05,2112.81,Two year,Credit card (automatic),0
+CUST-00962,West,Long Tenure,59,61.02,3629.34,Month-to-month,Electronic check,0
+CUST-00963,West,Long Tenure,47,68.77,3238.01,One year,Bank transfer (automatic),0
+CUST-00964,West,Early Tenure,7,50.01,345.44,Month-to-month,Electronic check,1
+CUST-00965,West,Early Tenure,0,52.94,1.94,Two year,Electronic check,0
+CUST-00966,North,Early Tenure,6,68.23,414.54,Month-to-month,Mailed check,0
+CUST-00967,East,Long Tenure,39,87.58,3430.91,Two year,Credit card (automatic),0
+CUST-00968,East,Mid Tenure - Premium,16,91.18,1444.77,One year,Mailed check,0
+CUST-00969,South,Mid Tenure - Standard,20,59.52,1183.29,Month-to-month,Mailed check,0
+CUST-00970,East,Long Tenure,46,44.78,2059.77,Month-to-month,Electronic check,0
+CUST-00971,South,Mid Tenure - Standard,34,30.83,1026.95,Two year,Electronic check,0
+CUST-00972,South,Mid Tenure - Premium,35,93.16,3218.8,Month-to-month,Bank transfer (automatic),0
+CUST-00973,South,Mid Tenure - Standard,15,61.59,868.84,Two year,Electronic check,0
+CUST-00974,North,Mid Tenure - Standard,30,30.01,893.75,Two year,Electronic check,0
+CUST-00975,South,Mid Tenure - Premium,23,92.39,2086.1,Two year,Mailed check,0
+CUST-00976,North,Mid Tenure - Premium,22,100.62,2225.37,Month-to-month,Bank transfer (automatic),1
+CUST-00977,West,Mid Tenure - Standard,29,52.43,1565.95,One year,Electronic check,0
+CUST-00978,North,Early Tenure,9,34.4,337.99,Month-to-month,Credit card (automatic),0
+CUST-00979,West,Mid Tenure - Standard,34,58.88,1977.45,One year,Mailed check,0
+CUST-00980,East,Mid Tenure - Premium,29,96.59,2803.91,Two year,Credit card (automatic),0
+CUST-00981,North,Long Tenure,39,25.84,1006.06,Month-to-month,Credit card (automatic),0
+CUST-00982,South,Long Tenure,83,95.91,7950.78,Two year,Electronic check,0
+CUST-00983,East,Mid Tenure - Standard,24,52.69,1243.21,Month-to-month,Bank transfer (automatic),0
+CUST-00984,South,Early Tenure,2,79.31,117.55,One year,Credit card (automatic),0
+CUST-00985,West,Mid Tenure - Standard,34,28.01,901.42,One year,Credit card (automatic),0
+CUST-00986,West,Early Tenure,3,40.3,116.9,One year,Mailed check,0
+CUST-00987,East,Long Tenure,69,71.29,4926.72,Month-to-month,Mailed check,1
+CUST-00988,East,Mid Tenure - Standard,23,44.68,979.96,One year,Electronic check,0
+CUST-00989,North,Early Tenure,3,20.5,71.82,Month-to-month,Electronic check,1
+CUST-00990,South,Mid Tenure - Premium,18,94.55,1718.43,Two year,Mailed check,0
+CUST-00991,South,Long Tenure,47,38.29,1818.14,One year,Mailed check,0
+CUST-00992,West,Mid Tenure - Standard,31,25.91,794.1,Month-to-month,Credit card (automatic),0
+CUST-00993,West,Early Tenure,11,75.88,857.05,Month-to-month,Electronic check,1
+CUST-00994,West,Early Tenure,0,85.46,0.0,Two year,Credit card (automatic),0
+CUST-00995,West,Early Tenure,4,63.48,252.87,Two year,Mailed check,0
+CUST-00996,North,Early Tenure,0,109.69,6.9,One year,Credit card (automatic),1
+CUST-00997,North,Long Tenure,42,47.51,2010.77,One year,Credit card (automatic),0
+CUST-00998,North,Mid Tenure - Premium,20,95.16,1930.44,Month-to-month,Bank transfer (automatic),1
+CUST-00999,West,Long Tenure,38,97.82,3705.98,Month-to-month,Bank transfer (automatic),0
+CUST-01000,North,Long Tenure,42,74.44,3107.58,Month-to-month,Electronic check,0
