@@ -33,3 +33,12 @@ AVERAGE ( Customers[monthly_charges] )
 -- Optional: churned customer count, useful for cards/tables
 Churned Customers =
 SUM ( Customers[churn] )
+
+-- Row-Level Security by region (EXAMPLE, Power BI Desktop only)
+-- RLS is not a measure: in Power BI Desktop, create a role (e.g. "Region Users")
+-- on the Customers / dim_region table with a DAX filter such as:
+--   [region] = USERPRINCIPALNAME()  -- only if usernames map to regions, otherwise
+--   [region] IN { "North" }         -- example for a North-region role
+-- Then assign users to that role in the Power BI service. This shows how
+-- the LinkedIn project's "row-level security by region" would be set up;
+-- it is not applied to the synthetic CSV itself.

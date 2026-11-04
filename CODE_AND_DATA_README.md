@@ -67,3 +67,11 @@ streamlit run dashboard/app.py
 
 The app reads `data/sample_customers.csv` from the project root.
 Run `python3 src/generate_sample_data.py` first if the CSV is missing.
+
+## Alignment update — 2026-11-04 review
+New files added in this review, to align the repo with the LinkedIn tech list:
+- `sql/star_schema.sql` — star-schema dimension/fact example for Power BI.
+- `src/export_to_excel.py` + `outputs/customer_churn_sample.xlsx` — Excel export (sample only) covering the Excel tech item.
+- `dax_measures.txt` — now also includes a Row-Level Security by region example (Power BI role, not a measure).
+- `docs/executive_memo.md` — one-page executive memo with 3 retention actions, based on SAMPLE findings only (not the original +8% projection).
+See ALIGNMENT.md for the full claim-to-file mapping.
