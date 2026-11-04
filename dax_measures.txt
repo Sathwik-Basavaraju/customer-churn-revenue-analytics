@@ -1,0 +1,35 @@
+-- DAX measures for a Power BI star-schema model (example only)
+-- Model assumption: a Customers fact/dimension table named 'Customers'
+-- with columns: customer_id, region, segment, tenure_months,
+-- monthly_charges, total_charges, contract_type, payment_method, churn
+-- (churn = 1 for churned, 0 otherwise). Adjust table/column names to
+-- your actual model. These measures are for the SYNTHETIC sample data;
+-- they do not reproduce the original project's figures.
+
+-- Total number of customers
+Total Customers =
+COUNTROWS ( Customers )
+
+-- Share of customers who churned
+Churn Rate =
+DIVIDE (
+    SUM ( Customers[churn] ),
+    COUNTROWS ( Customers ),
+    0
+)
+
+-- Sample-only at-risk revenue: 12 months of monthly charges for
+-- churned customers. Label it as sample-only in any report.
+At-Risk Revenue =
+SUMX (
+    FILTER ( Customers, Customers[churn] = 1 ),
+    Customers[monthly_charges] * 12
+)
+
+-- Average monthly charge across all customers in context
+Avg Monthly Charges =
+AVERAGE ( Customers[monthly_charges] )
+
+-- Optional: churned customer count, useful for cards/tables
+Churned Customers =
+SUM ( Customers[churn] )
